@@ -1,0 +1,4032 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1782898695.1831677,
+    "ast_hash": "598cb075410bcd95220ac90bbb60344a",
+    "semantic_hash": "598cb075410bcd95220ac90bbb60344a"
+  },
+  ".claude/settings.local.json": {
+    "mtime": 1786362641.1086292,
+    "ast_hash": "13a4bc890fa032f56816b0f7487e78a3",
+    "semantic_hash": ""
+  },
+  "app_control.py": {
+    "mtime": 1782996293.227748,
+    "ast_hash": "0cd867aad79eea46a2e5f29eecc6f0a7",
+    "semantic_hash": ""
+  },
+  "classes/__init__.py": {
+    "mtime": 1780484816.941139,
+    "ast_hash": "78e09bac0060d94e27c25e7d6e68b292",
+    "semantic_hash": "78e09bac0060d94e27c25e7d6e68b292"
+  },
+  "classes/config/Accounts.py": {
+    "mtime": 1783080415.6251707,
+    "ast_hash": "a6ad2dbf0af50ab293f18e4e7d943e20",
+    "semantic_hash": ""
+  },
+  "classes/config/Acronyms.py": {
+    "mtime": 1781171640.4946618,
+    "ast_hash": "be30e1976aa7af1f2711852e71c5d6fd",
+    "semantic_hash": "be30e1976aa7af1f2711852e71c5d6fd"
+  },
+  "classes/config/Applications.py": {
+    "mtime": 1783080415.6308618,
+    "ast_hash": "b014ab6db4dcfef3bdba6502f0fb50c5",
+    "semantic_hash": ""
+  },
+  "classes/config/Common.py": {
+    "mtime": 1782995801.1628551,
+    "ast_hash": "d50823352153d245819293e9577c45ab",
+    "semantic_hash": ""
+  },
+  "classes/config/DataTransformer.py": {
+    "mtime": 1782996145.283876,
+    "ast_hash": "17bef6a5fd2ce80ca194389bef91613b",
+    "semantic_hash": ""
+  },
+  "classes/config/FTPTransport.py": {
+    "mtime": 1783080415.6308618,
+    "ast_hash": "1bd6bd70790655a934ba3b1eda8ae0a7",
+    "semantic_hash": ""
+  },
+  "classes/config/Mail.py": {
+    "mtime": 1782995786.1696231,
+    "ast_hash": "082263230024443d4a560161b7f8a503",
+    "semantic_hash": ""
+  },
+  "classes/config/PollingConfig.py": {
+    "mtime": 1783080415.6251707,
+    "ast_hash": "6e1d9b5ece43c503892d9ac1849b9a02",
+    "semantic_hash": ""
+  },
+  "classes/config/Stock.py": {
+    "mtime": 1783080415.6251707,
+    "ast_hash": "3f3d4d8c82d2d6adc1d6693114a50b4e",
+    "semantic_hash": ""
+  },
+  "classes/config/__init__.py": {
+    "mtime": 1781171682.710433,
+    "ast_hash": "8ebb8aa574940f324876c4d30fd6c488",
+    "semantic_hash": "8ebb8aa574940f324876c4d30fd6c488"
+  },
+  "classes/config/base.py": {
+    "mtime": 1783080386.1661942,
+    "ast_hash": "25ec48b5e0f85d9ab9edd61f1fe91df5",
+    "semantic_hash": ""
+  },
+  "classes/logging/ColorFormatter.py": {
+    "mtime": 1783080727.9154336,
+    "ast_hash": "7773dae052bcc5a9401ee8007bc3a04b",
+    "semantic_hash": ""
+  },
+  "classes/logging/Logger.py": {
+    "mtime": 1782996330.2267568,
+    "ast_hash": "83f1db385e46d9bf02894530c4c5f1cc",
+    "semantic_hash": ""
+  },
+  "classes/logging/__init__.py": {
+    "mtime": 1759919658.78785,
+    "ast_hash": "75c1222adea88ad20d6b7eca52d700e3",
+    "semantic_hash": "75c1222adea88ad20d6b7eca52d700e3"
+  },
+  "config/mappings/cosmic.json": {
+    "mtime": 1777967877.8896382,
+    "ast_hash": "d7b943aa23c308d1bc345dc7cdd50f5e",
+    "semantic_hash": "d7b943aa23c308d1bc345dc7cdd50f5e"
+  },
+  "config/mappings/ej.json": {
+    "mtime": 1777363410.9304025,
+    "ast_hash": "80b35a70c85c155610ded453d50c6bbf",
+    "semantic_hash": "80b35a70c85c155610ded453d50c6bbf"
+  },
+  "library/__init__.py": {
+    "mtime": 1753094564.6925533,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "library/auth_provider.py": {
+    "mtime": 1782222032.212645,
+    "ast_hash": "7c66d8bf9920ef837824f9d139fb9216",
+    "semantic_hash": "7c66d8bf9920ef837824f9d139fb9216"
+  },
+  "library/cli/__init__.py": {
+    "mtime": 1755694475.1704655,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "library/cli/functions/__init__.py": {
+    "mtime": 1777283960.6128569,
+    "ast_hash": "ecbfb26d976ca66407031cc3ec99ef97",
+    "semantic_hash": "ecbfb26d976ca66407031cc3ec99ef97"
+  },
+  "library/cli/functions/application.py": {
+    "mtime": 1782996381.1776094,
+    "ast_hash": "0d69a3663bc5b28db7abd20aaa41f08c",
+    "semantic_hash": ""
+  },
+  "library/cli/functions/ftp_settings.py": {
+    "mtime": 1782996404.5427897,
+    "ast_hash": "8a7811d3eb82d04aacca7fe9d0ea1dd1",
+    "semantic_hash": ""
+  },
+  "library/cli/functions/mail_settings.py": {
+    "mtime": 1782996409.8665316,
+    "ast_hash": "88485669041d564cbd76df4c44754d84",
+    "semantic_hash": ""
+  },
+  "library/cli/menus/__init__.py": {
+    "mtime": 1755694745.5151668,
+    "ast_hash": "4bc4b745c27f9405f956647a96f375a4",
+    "semantic_hash": "4bc4b745c27f9405f956647a96f375a4"
+  },
+  "library/cli/menus/menus.py": {
+    "mtime": 1777876914.0843952,
+    "ast_hash": "b434a7db770355cf4b638d3d50d3b034",
+    "semantic_hash": "b434a7db770355cf4b638d3d50d3b034"
+  },
+  "library/exceptions.py": {
+    "mtime": 1781171747.300752,
+    "ast_hash": "17c886d62c091ce39b46d7e48bf0fb1f",
+    "semantic_hash": "17c886d62c091ce39b46d7e48bf0fb1f"
+  },
+  "library/factory.py": {
+    "mtime": 1782995963.0955324,
+    "ast_hash": "fde0a9605af948f64d3f1634f895c363",
+    "semantic_hash": ""
+  },
+  "library/file_explorer.py": {
+    "mtime": 1782996159.5934937,
+    "ast_hash": "0ecc5df84687e850c304402ff0056494",
+    "semantic_hash": ""
+  },
+  "library/ftp_transport.py": {
+    "mtime": 1782995888.6587057,
+    "ast_hash": "0df0a4dfb5de295cf989d31fdd9cd987",
+    "semantic_hash": ""
+  },
+  "library/helper_functions.py": {
+    "mtime": 1782996347.4228096,
+    "ast_hash": "8ed0d496a484d6498977fa945de2525c",
+    "semantic_hash": ""
+  },
+  "library/logging_helpers/__init__.py": {
+    "mtime": 1780492494.4083688,
+    "ast_hash": "1e015a11decc7ed9638058376d6c5c2e",
+    "semantic_hash": "1e015a11decc7ed9638058376d6c5c2e"
+  },
+  "library/logging_helpers/message_processor.py": {
+    "mtime": 1782996319.6547763,
+    "ast_hash": "65deff7f81175ee4ded502cbc74dc891",
+    "semantic_hash": ""
+  },
+  "library/mailer.py": {
+    "mtime": 1782996302.415666,
+    "ast_hash": "4b630178c3df003a295f63bf3666f986",
+    "semantic_hash": ""
+  },
+  "library/marketplaces.py": {
+    "mtime": 1782995907.9237,
+    "ast_hash": "5b404ae501045c07a91c20ac4f7bf5b0",
+    "semantic_hash": ""
+  },
+  "library/models.py": {
+    "mtime": 1781171971.9932573,
+    "ast_hash": "0dcc8404e6488649a802aa2a50774960",
+    "semantic_hash": "0dcc8404e6488649a802aa2a50774960"
+  },
+  "library/rate_limiter.py": {
+    "mtime": 1782995922.229004,
+    "ast_hash": "cfe956b1ac294cb3b866d59cc7e874e4",
+    "semantic_hash": ""
+  },
+  "library/runner.py": {
+    "mtime": 1783080464.4874227,
+    "ast_hash": "43de6319006470a83f4bb176e204799e",
+    "semantic_hash": ""
+  },
+  "library/security/__init__.py": {
+    "mtime": 1755779781.0350113,
+    "ast_hash": "d319dfea56d64956ad02c2f7f88d26fa",
+    "semantic_hash": "d319dfea56d64956ad02c2f7f88d26fa"
+  },
+  "library/security/crypto_utils.py": {
+    "mtime": 1783005089.1903927,
+    "ast_hash": "4ae38bef1888504d5338618ee6ca2ff1",
+    "semantic_hash": ""
+  },
+  "library/security/data_protector.py": {
+    "mtime": 1757493019.894179,
+    "ast_hash": "5e06f9596a775dd1ccc65141994e6574",
+    "semantic_hash": "5e06f9596a775dd1ccc65141994e6574"
+  },
+  "library/security/key_manager.py": {
+    "mtime": 1783068457.370721,
+    "ast_hash": "bb582b2f6aa06899371ba272c5017023",
+    "semantic_hash": ""
+  },
+  "library/spapi_client.py": {
+    "mtime": 1783278040.2862794,
+    "ast_hash": "37733a873161240d3ca481e6d2b569e7",
+    "semantic_hash": ""
+  },
+  "library/stock_feed.py": {
+    "mtime": 1786362554.319538,
+    "ast_hash": "7fb993a123dbbfc97c8289a9c8e16a97",
+    "semantic_hash": ""
+  },
+  "library/transport.py": {
+    "mtime": 1782995940.175292,
+    "ast_hash": "4eede34f8a9c216e812ad570ae080dc4",
+    "semantic_hash": ""
+  },
+  "main.py": {
+    "mtime": 1782996290.3957455,
+    "ast_hash": "008c205c90fe8cd9c3e098469731bff6",
+    "semantic_hash": ""
+  },
+  "orders.py": {
+    "mtime": 1783280211.0339105,
+    "ast_hash": "5b1961d54de8214b0dd46bfbe9f904af",
+    "semantic_hash": ""
+  },
+  "pyproject.toml": {
+    "mtime": 1782898640.1432123,
+    "ast_hash": "a5d033714772225930ca92bb92ba27e8",
+    "semantic_hash": "a5d033714772225930ca92bb92ba27e8"
+  },
+  "stock.py": {
+    "mtime": 1785920426.772447,
+    "ast_hash": "0e03d61440faa1ceca5baa2d008dd80d",
+    "semantic_hash": ""
+  },
+  "stock_results/lladro_amtubb/DE_20260618_115750.json": {
+    "mtime": 1781776670.7562199,
+    "ast_hash": "11e69b9eb9cb2eae120c1144e1d33017",
+    "semantic_hash": "11e69b9eb9cb2eae120c1144e1d33017"
+  },
+  "stock_results/lladro_amtubb/DE_20260619_094807.json": {
+    "mtime": 1781855287.2182262,
+    "ast_hash": "ca5ee71e1f0c6c24803305f8f004dfdd",
+    "semantic_hash": "ca5ee71e1f0c6c24803305f8f004dfdd"
+  },
+  "stock_results/lladro_amtubb/DE_20260619_120600.json": {
+    "mtime": 1781863560.1164784,
+    "ast_hash": "321a4803cb19612e3bd30b104a321dfb",
+    "semantic_hash": "321a4803cb19612e3bd30b104a321dfb"
+  },
+  "stock_results/lladro_amtubb/DE_20260623_162508.json": {
+    "mtime": 1782224708.211622,
+    "ast_hash": "c72390f5ed890b7bbe894028622c396d",
+    "semantic_hash": "c72390f5ed890b7bbe894028622c396d"
+  },
+  "stock_results/lladro_amtubb/ES_20260618_115620.json": {
+    "mtime": 1781776580.1101694,
+    "ast_hash": "c5bc991d65d0f469d0d1306c0d95eec9",
+    "semantic_hash": "c5bc991d65d0f469d0d1306c0d95eec9"
+  },
+  "stock_results/lladro_amtubb/ES_20260619_094636.json": {
+    "mtime": 1781855196.5449524,
+    "ast_hash": "bafde12948b46d963843afdbd2d429e4",
+    "semantic_hash": "bafde12948b46d963843afdbd2d429e4"
+  },
+  "stock_results/lladro_amtubb/ES_20260619_120429.json": {
+    "mtime": 1781863469.471013,
+    "ast_hash": "50f4ced0bdbe0e0206211654e3e41d11",
+    "semantic_hash": "50f4ced0bdbe0e0206211654e3e41d11"
+  },
+  "stock_results/lladro_amtubb/ES_20260623_162337.json": {
+    "mtime": 1782224617.4539707,
+    "ast_hash": "43a29eb4dffbde7222fb54e8ce9310b5",
+    "semantic_hash": "43a29eb4dffbde7222fb54e8ce9310b5"
+  },
+  "stock_results/lladro_amtubb/FR_20260618_115620.json": {
+    "mtime": 1781776580.466242,
+    "ast_hash": "b31938f4e84de7acc37f14f43cd67b5e",
+    "semantic_hash": "b31938f4e84de7acc37f14f43cd67b5e"
+  },
+  "stock_results/lladro_amtubb/FR_20260619_094636.json": {
+    "mtime": 1781855196.8536491,
+    "ast_hash": "fa34215b0f7913d17223b84a1799be88",
+    "semantic_hash": "fa34215b0f7913d17223b84a1799be88"
+  },
+  "stock_results/lladro_amtubb/FR_20260619_120429.json": {
+    "mtime": 1781863469.795777,
+    "ast_hash": "a7f95997cf7a913e0e5c54241bdbd18d",
+    "semantic_hash": "a7f95997cf7a913e0e5c54241bdbd18d"
+  },
+  "stock_results/lladro_amtubb/FR_20260623_162337.json": {
+    "mtime": 1782224617.747341,
+    "ast_hash": "c1dde10474627b4eb6835b6e7e758f85",
+    "semantic_hash": "c1dde10474627b4eb6835b6e7e758f85"
+  },
+  "stock_results/lladro_amtubb/IT_20260618_115705.json": {
+    "mtime": 1781776625.6706834,
+    "ast_hash": "34d85e7d52d05346cf4871f5bfdce4dd",
+    "semantic_hash": "34d85e7d52d05346cf4871f5bfdce4dd"
+  },
+  "stock_results/lladro_amtubb/IT_20260619_094722.json": {
+    "mtime": 1781855242.2030833,
+    "ast_hash": "722b859feb1d9670ba20c0b3b5a89a91",
+    "semantic_hash": "722b859feb1d9670ba20c0b3b5a89a91"
+  },
+  "stock_results/lladro_amtubb/IT_20260619_120515.json": {
+    "mtime": 1781863515.0857437,
+    "ast_hash": "e9d621688e565cac49a10679f1ac009e",
+    "semantic_hash": "e9d621688e565cac49a10679f1ac009e"
+  },
+  "stock_results/lladro_amtubb/IT_20260623_162422.json": {
+    "mtime": 1782224662.9808707,
+    "ast_hash": "4afa4a740393ce6120438b08ec1ad236",
+    "semantic_hash": "4afa4a740393ce6120438b08ec1ad236"
+  },
+  "stock_results/lladro_amtubb/UK_20260618_120034.json": {
+    "mtime": 1781776834.2282016,
+    "ast_hash": "1ba93f5135db5f086d36498241fe502a",
+    "semantic_hash": "1ba93f5135db5f086d36498241fe502a"
+  },
+  "stock_results/lladro_amtubb/UK_20260619_094953.json": {
+    "mtime": 1781855393.8419032,
+    "ast_hash": "3d3ac6282ca1351997c1f60687d52565",
+    "semantic_hash": "3d3ac6282ca1351997c1f60687d52565"
+  },
+  "stock_results/lladro_amtubb/UK_20260619_120707.json": {
+    "mtime": 1781863627.8340096,
+    "ast_hash": "c5d8ab5eb8ebce32aad20185c75ab081",
+    "semantic_hash": "c5d8ab5eb8ebce32aad20185c75ab081"
+  },
+  "stock_results/lladro_amtubb/UK_20260623_162654.json": {
+    "mtime": 1782224814.297991,
+    "ast_hash": "384fa9f8f7c0f48428d9ff591e0b0fd8",
+    "semantic_hash": "384fa9f8f7c0f48428d9ff591e0b0fd8"
+  },
+  "tests/__init__.py": {
+    "mtime": 1780483614.7270536,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "tests/test_auth_cache.py": {
+    "mtime": 1782222304.6471603,
+    "ast_hash": "e68bc69cdd11e497c038e952c0d9b226",
+    "semantic_hash": "e68bc69cdd11e497c038e952c0d9b226"
+  },
+  "tests/test_client.py": {
+    "mtime": 1781855890.624894,
+    "ast_hash": "0415a7852a2ef9f35d1e05a470f1ce83",
+    "semantic_hash": "0415a7852a2ef9f35d1e05a470f1ce83"
+  },
+  "tests/test_config_base.py": {
+    "mtime": 1781254959.9390576,
+    "ast_hash": "afec269fbf80b30f35c1aee83793f7c6",
+    "semantic_hash": "afec269fbf80b30f35c1aee83793f7c6"
+  },
+  "tests/test_crypto_utils.py": {
+    "mtime": 1783005144.2000568,
+    "ast_hash": "15fbfcae28504e29368044573d7bae0f",
+    "semantic_hash": ""
+  },
+  "tests/test_datatransformer.py": {
+    "mtime": 1782222335.041116,
+    "ast_hash": "868053949699b02b37e2b666640e61c3",
+    "semantic_hash": "868053949699b02b37e2b666640e61c3"
+  },
+  "tests/test_factory_debug.py": {
+    "mtime": 1781776922.87225,
+    "ast_hash": "88756dba281c5a75178332280d937dfe",
+    "semantic_hash": "88756dba281c5a75178332280d937dfe"
+  },
+  "tests/test_marketplaces.py": {
+    "mtime": 1781184365.1665695,
+    "ast_hash": "914c4edabe46c52b6412eeb1e4855dbe",
+    "semantic_hash": "914c4edabe46c52b6412eeb1e4855dbe"
+  },
+  "tests/test_orders_fallback.py": {
+    "mtime": 1781184389.3042004,
+    "ast_hash": "a1192403c6a7445498c276615a80cbda",
+    "semantic_hash": "a1192403c6a7445498c276615a80cbda"
+  },
+  "tests/test_orders_naming.py": {
+    "mtime": 1783280220.2664764,
+    "ast_hash": "2ef99fa1067f956e2773a9357bcaa8ba",
+    "semantic_hash": ""
+  },
+  "tests/test_rate_limiter.py": {
+    "mtime": 1780483627.681513,
+    "ast_hash": "e03f632da98a0a763d22bd8115734e2c",
+    "semantic_hash": "e03f632da98a0a763d22bd8115734e2c"
+  },
+  "tests/test_redaction.py": {
+    "mtime": 1782222319.8347979,
+    "ast_hash": "9e2427978426e28dec70c3aafef2da49",
+    "semantic_hash": "9e2427978426e28dec70c3aafef2da49"
+  },
+  "tests/test_runner_isolation.py": {
+    "mtime": 1781788607.9792998,
+    "ast_hash": "6396105625b71a2630c379a2832744c0",
+    "semantic_hash": "6396105625b71a2630c379a2832744c0"
+  },
+  "tests/test_trackings_match.py": {
+    "mtime": 1782721756.4009168,
+    "ast_hash": "bc1f924ac5c9e26c11e5ef5567550a57",
+    "semantic_hash": "bc1f924ac5c9e26c11e5ef5567550a57"
+  },
+  "tests/test_transforms.py": {
+    "mtime": 1786362579.656919,
+    "ast_hash": "310a0b6c55dd424306808e08b4b7a50b",
+    "semantic_hash": ""
+  },
+  "tests/test_transport.py": {
+    "mtime": 1781184307.5259256,
+    "ast_hash": "0b880d9ae5335d41d18c2b72fbf304e2",
+    "semantic_hash": "0b880d9ae5335d41d18c2b72fbf304e2"
+  },
+  "trackings.py": {
+    "mtime": 1782996252.5794957,
+    "ast_hash": "97b0e4faf1f02407d03ba4851e592d33",
+    "semantic_hash": ""
+  },
+  "vat_report.py": {
+    "mtime": 1783278483.5501497,
+    "ast_hash": "ade5b1c07ce27a69422b08c1d8d0fb2f",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1782898695.1831677,
+    "ast_hash": "8a6643a420fdad6bfb583523bc6cef16",
+    "semantic_hash": "8a6643a420fdad6bfb583523bc6cef16"
+  },
+  "MIGRATION.md": {
+    "mtime": 1780485069.8884811,
+    "ast_hash": "644afcc6b24d3b321aab324d078b1b61",
+    "semantic_hash": "644afcc6b24d3b321aab324d078b1b61"
+  },
+  "REFACTORING.md": {
+    "mtime": 1786362676.0230699,
+    "ast_hash": "629cce0bbf4bf2ec354e3f6314dc11c5",
+    "semantic_hash": ""
+  },
+  "config/acronyms.txt": {
+    "mtime": 1777877308.6319454,
+    "ast_hash": "c8786c61cc42c8c031d90b1927c185d3",
+    "semantic_hash": "c8786c61cc42c8c031d90b1927c185d3"
+  },
+  "config/emails.txt": {
+    "mtime": 1774954150.1921544,
+    "ast_hash": "4ae8955d30d100b04032cc9d3d59aeb8",
+    "semantic_hash": "4ae8955d30d100b04032cc9d3d59aeb8"
+  },
+  "orders/320655020622_COS_AMZ.txt": {
+    "mtime": 1781776190.9249568,
+    "ast_hash": "79ce4abf07b3629715d000278d3fb0e8",
+    "semantic_hash": "79ce4abf07b3629715d000278d3fb0e8"
+  },
+  "orders/320789020623_COS_AMZ.txt": {
+    "mtime": 1781854792.5497324,
+    "ast_hash": "7fb98e5ef76c9e31b9714663222bd855",
+    "semantic_hash": "7fb98e5ef76c9e31b9714663222bd855"
+  },
+  "orders/321420020627_COS_AMZ.txt": {
+    "mtime": 1782224233.4558022,
+    "ast_hash": "4e5d87f1d3ffe5fd8d23da3147b6fe5f",
+    "semantic_hash": "4e5d87f1d3ffe5fd8d23da3147b6fe5f"
+  },
+  "requirements.txt": {
+    "mtime": 1781184161.22128,
+    "ast_hash": "718a15f46644d9290cc7e1e171632bce",
+    "semantic_hash": "718a15f46644d9290cc7e1e171632bce"
+  },
+  "graphify.config.json": {
+    "mtime": 1782976840.644023,
+    "ast_hash": "2857a7b02ccbd96c7ee87c52862f9225",
+    "semantic_hash": "2857a7b02ccbd96c7ee87c52862f9225"
+  },
+  "library/atomic_io.py": {
+    "mtime": 1782995682.683864,
+    "ast_hash": "4c841b095f129ba781c028004c1fa79b",
+    "semantic_hash": ""
+  },
+  "library/housekeeping.py": {
+    "mtime": 1782995727.28238,
+    "ast_hash": "732839ea68b9f5e0ca227a33f95a5bfa",
+    "semantic_hash": ""
+  },
+  "library/paths.py": {
+    "mtime": 1782995693.6104035,
+    "ast_hash": "d0c31c311eadef207842ce22bc092c73",
+    "semantic_hash": ""
+  },
+  "library/proc_lock.py": {
+    "mtime": 1782995688.8883762,
+    "ast_hash": "7441ebeb3e169390be725db9c64f9e90",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.graphify_obsidian_manifest.json": {
+    "mtime": 1782977142.3096688,
+    "ast_hash": "7b9935a742a333c7f0296a7db9ee8141",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.obsidian/app.json": {
+    "mtime": 1782978862.8096495,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.obsidian/appearance.json": {
+    "mtime": 1782978862.8107545,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.obsidian/core-plugins.json": {
+    "mtime": 1782978862.3234625,
+    "ast_hash": "7c877bea49eaeabb100563bd157b9051",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.obsidian/graph.json": {
+    "mtime": 1782979693.385,
+    "ast_hash": "a9bfdf600078092a4412616ac7d455c9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.obsidian/workspace.json": {
+    "mtime": 1782979330.356757,
+    "ast_hash": "d9ada2317c430468cda434650fdee8f5",
+    "semantic_hash": ""
+  },
+  "tests/test_atomic_io.py": {
+    "mtime": 1782996455.1551178,
+    "ast_hash": "3daee2ccdabe071da5af84038ee27c34",
+    "semantic_hash": ""
+  },
+  "tests/test_client_status_errors.py": {
+    "mtime": 1783278062.4367397,
+    "ast_hash": "4365bc918ca7a8b02a0e99159ab6213f",
+    "semantic_hash": ""
+  },
+  "tests/test_load_trackings_types.py": {
+    "mtime": 1782996482.6442323,
+    "ast_hash": "a16479f9d8b0f4ad9a02ccd8dadbd2e1",
+    "semantic_hash": ""
+  },
+  "tests/test_proc_lock.py": {
+    "mtime": 1782996510.646347,
+    "ast_hash": "0e0b5d12cccdb927b0b6ba852ec6aee7",
+    "semantic_hash": ""
+  },
+  "tests/test_sandbox_and_seed.py": {
+    "mtime": 1782996505.2219174,
+    "ast_hash": "ce515af59a8f7e67401f646370b6f45e",
+    "semantic_hash": ""
+  },
+  "tests/test_transform_guard.py": {
+    "mtime": 1782996495.368417,
+    "ast_hash": "17687b566d81e73a4229f6cac47a4774",
+    "semantic_hash": ""
+  },
+  "tests/test_vat_window.py": {
+    "mtime": 1783278498.8270857,
+    "ast_hash": "ce579765a963c2f78a4f3c4ff4e606de",
+    "semantic_hash": ""
+  },
+  "python-code-vault/(start, end) ISO-8601 del mes natural anterior, como usaba el original..md": {
+    "mtime": 1782977142.245065,
+    "ast_hash": "425bc7c76ac6792474af0933732ac616",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__aenter__().md": {
+    "mtime": 1782977142.0149071,
+    "ast_hash": "3d40bc3fccfc405282118dd5dd446166",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__aexit__().md": {
+    "mtime": 1782977142.017886,
+    "ast_hash": "9d54a5e52a7a69d24e6ca20f3e33b88a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__().md": {
+    "mtime": 1782977141.892851,
+    "ast_hash": "1d0f6627d37bcb1c5792288ed3fa7975",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_1.md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "108812bafee2caccd13186475519e76f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_10.md": {
+    "mtime": 1782977141.9650128,
+    "ast_hash": "8188ceb47c133f9f9252a2a05a250285",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_11.md": {
+    "mtime": 1782977141.980317,
+    "ast_hash": "13a9ecaa28cb947e198eb6c328e03c65",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_12.md": {
+    "mtime": 1782977142.0063958,
+    "ast_hash": "aac8e904ec2b687a00a837acabbc7509",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_13.md": {
+    "mtime": 1782977142.0149071,
+    "ast_hash": "4b61b4bc5d8b605a8734df9f321883a6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_14.md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "32907f948ad6bd630e3b8615f9eb8b1f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_15.md": {
+    "mtime": 1782977142.0827556,
+    "ast_hash": "0a4badc6222380d4c9011b72a2db1359",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_16.md": {
+    "mtime": 1782977142.099844,
+    "ast_hash": "0601727339e7d8351b422fceaffd233b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_17.md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "c6fa6958b4bfacf69649230b831c7362",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_18.md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "92a8113fcb604c41122fb876b4214fde",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_19.md": {
+    "mtime": 1782977142.1877704,
+    "ast_hash": "d37b517d21af672da259894cefa844ed",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_2.md": {
+    "mtime": 1782977141.9035077,
+    "ast_hash": "1d21c223ad57757acb2815479d4ec1cc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_20.md": {
+    "mtime": 1782977142.2264428,
+    "ast_hash": "72ad922bf311270bdefd56f2175154ba",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_3.md": {
+    "mtime": 1782977141.9075596,
+    "ast_hash": "22be3a385d0b77a901789bf8f842bbeb",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_4.md": {
+    "mtime": 1782977141.9240417,
+    "ast_hash": "f301357a6784d398f092b9b8582a9bff",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_5.md": {
+    "mtime": 1782977141.929636,
+    "ast_hash": "77a82154a00d0485e367f01d52f1fdac",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_6.md": {
+    "mtime": 1782977141.9360547,
+    "ast_hash": "313d2f14eee140af28325e3ac0b559db",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_7.md": {
+    "mtime": 1782977141.9411676,
+    "ast_hash": "f0dc67851db98c40759bb77ca5c06540",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_8.md": {
+    "mtime": 1782977141.9474025,
+    "ast_hash": "fb3354aa0beb865aadf0c5cf497b7245",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.__init__()_9.md": {
+    "mtime": 1782977141.9632144,
+    "ast_hash": "d491ae868f6bc46aee35dd0d02dddd75",
+    "semantic_hash": ""
+  },
+  "python-code-vault/._apply_logic().md": {
+    "mtime": 1782977141.9270868,
+    "ast_hash": "4bb635a9f1e58bb51c15eabb205e904c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/._cache_path().md": {
+    "mtime": 1782977141.9823341,
+    "ast_hash": "d3f741edf20c59bea3e0e80402b6e639",
+    "semantic_hash": ""
+  },
+  "python-code-vault/._call().md": {
+    "mtime": 1782977142.0835328,
+    "ast_hash": "950a06f7681400102cafa80d51be1087",
+    "semantic_hash": ""
+  },
+  "python-code-vault/._do_request().md": {
+    "mtime": 1782977142.103842,
+    "ast_hash": "10a093659f395788b41b0209972c096a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/._expand_template().md": {
+    "mtime": 1782977141.9250517,
+    "ast_hash": "5addae6054fbf9cbde2d2a178267ce03",
+    "semantic_hash": ""
+  },
+  "python-code-vault/._get_region_data().md": {
+    "mtime": 1782977141.9250517,
+    "ast_hash": "e4ad335054994adf7b21cb23f2908a28",
+    "semantic_hash": ""
+  },
+  "python-code-vault/._key().md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "bb4425cdeff5054ddaa533937bbca577",
+    "semantic_hash": ""
+  },
+  "python-code-vault/._load_config().md": {
+    "mtime": 1782977141.9250517,
+    "ast_hash": "cfa9540808270222792939e1167047ca",
+    "semantic_hash": ""
+  },
+  "python-code-vault/._lock().md": {
+    "mtime": 1782977141.9823341,
+    "ast_hash": "32e3afa559851968778e39a65d2fcafb",
+    "semantic_hash": ""
+  },
+  "python-code-vault/._log_debug().md": {
+    "mtime": 1782977142.1052475,
+    "ast_hash": "74637560fc928595625cd2e4ba61f9ef",
+    "semantic_hash": ""
+  },
+  "python-code-vault/._poll().md": {
+    "mtime": 1782977142.0847964,
+    "ast_hash": "6d43315139c9220b5458c7c65ae452b5",
+    "semantic_hash": ""
+  },
+  "python-code-vault/._read().md": {
+    "mtime": 1782977142.1628816,
+    "ast_hash": "1a6d101704043addc27ccf04fa6fa9e6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/._refresh().md": {
+    "mtime": 1782977141.9852939,
+    "ast_hash": "efd6990fb7bb6721a6a2e978048468a8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.accounts_list().md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "c6dfe525ab8eb3d2168ed8d7cf725534",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.aclose().md": {
+    "mtime": 1782977142.0149071,
+    "ast_hash": "8e4892eaa382be7745bec24dc23b285e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.client().md": {
+    "mtime": 1782977142.0149071,
+    "ast_hash": "33bdf91fda6d593fdb9ffa0b3b4731ab",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.configure_logger().md": {
+    "mtime": 1782977141.967237,
+    "ast_hash": "f12d0496839763c4d14bb31904ead18f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.create_default_config().md": {
+    "mtime": 1782977141.9150112,
+    "ast_hash": "0ff3f0bcba07677be465ccc7be035052",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.create_feed_document().md": {
+    "mtime": 1782977142.0867648,
+    "ast_hash": "9696a37ab0ce033c9074a0fb4c09c723",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.create_report().md": {
+    "mtime": 1782977142.0847964,
+    "ast_hash": "9141804ceabd7c848076cfb047d090e0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.download_bytes().md": {
+    "mtime": 1782977142.0931656,
+    "ast_hash": "c971177b2376d1e8a3c26ce4fd40f392",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.download_report_content().md": {
+    "mtime": 1782977142.0867648,
+    "ast_hash": "b32cc1ca295cced415cba2b720a0342c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.download_text().md": {
+    "mtime": 1782977142.092388,
+    "ast_hash": "ca85c357710f1cfa4f837edff49af178",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.format().md": {
+    "mtime": 1782977141.964001,
+    "ast_hash": "8a0b8fd83c8116d490d8522707de6764",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get().md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "cb779b49a9a2985499e4d5df6c18a608",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_access_token().md": {
+    "mtime": 1782977141.9847171,
+    "ast_hash": "61fc6e3bd08f3e936ea070580f999614",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_access_token()_1.md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "1aab5fdb0ef10c0cce565cd364ec5ab3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_account().md": {
+    "mtime": 1782977141.8947759,
+    "ast_hash": "604975a875eaa3d74acb8caf8a085b5b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_account_params().md": {
+    "mtime": 1782977141.9316504,
+    "ast_hash": "d0d7615824998f7c6f44e9f856e8dca3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_accounts_by_application().md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "d7deb5590f56ed4dc3e25e88487197bb",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_acronym().md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "fbe7b4d13e4c18b07d2a2006338f5f22",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_active_applications().md": {
+    "mtime": 1782977141.9075596,
+    "ast_hash": "e7c890392530f55d97cfa3d26f78ac0e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_active_applications_original().md": {
+    "mtime": 1782977141.9075596,
+    "ast_hash": "bb696730af1ca52271c9c86c2ed7c743",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_all_accounts().md": {
+    "mtime": 1782977141.8936377,
+    "ast_hash": "da1524d568690068644aa71c22b08efb",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_all_stocks().md": {
+    "mtime": 1782977141.9495037,
+    "ast_hash": "624ecfe4860dde4e0a6b224a8290ce45",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_application().md": {
+    "mtime": 1782977141.9075596,
+    "ast_hash": "84da09c06e410ef19e2854f05c1fb370",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_application_name_for_account().md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "5e5975dde68f543798c0f9a1f33dc0c5",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_application_original().md": {
+    "mtime": 1782977141.9075596,
+    "ast_hash": "6edfe3d855ebc68c0a1283484bc81b7e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_applications().md": {
+    "mtime": 1782977141.9065769,
+    "ast_hash": "c5c16616721e4455f77900af90d2b835",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_applications_original().md": {
+    "mtime": 1782977141.9075596,
+    "ast_hash": "f04b91650f5589902d7fd5483c72e7af",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_auth_logger().md": {
+    "mtime": 1782977141.969291,
+    "ast_hash": "dd0bac288b1f96659a1d02e79a853926",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_base_delay().md": {
+    "mtime": 1782977141.94368,
+    "ast_hash": "3609e6c88161ec6282e905cc1e07eef5",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_base_delay()_1.md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "940cbe5bc1a7608e9b7be0187b0b4e6e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_client_id().md": {
+    "mtime": 1782977141.9075596,
+    "ast_hash": "511e6466af0ab249288095461855acd0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_client_secret().md": {
+    "mtime": 1782977141.9075596,
+    "ast_hash": "a237394747709e9f9cf9f04bff2a34ed",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_email().md": {
+    "mtime": 1782977141.9378204,
+    "ast_hash": "608e0e5301e1a0e3deab418f4325461b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_factor().md": {
+    "mtime": 1782977141.94368,
+    "ast_hash": "9ff5f5c7c6c4f5f933317812b687fd05",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_factor()_1.md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "6c4d6ab14482a6b19be81513e187c56f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_feed_result_document().md": {
+    "mtime": 1782977142.0905838,
+    "ast_hash": "7b956514e709f4249cd72e7ef6bfa6ff",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_feed_status().md": {
+    "mtime": 1782977142.0867648,
+    "ast_hash": "65302c003bfc9acb521a1a1fd079af76",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_jitter().md": {
+    "mtime": 1782977141.9454653,
+    "ast_hash": "11e027496ec5567a78ca813629c2cf96",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_jitter()_1.md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "dc0c37be8688788f8e9938fc5bcbaffe",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_logger().md": {
+    "mtime": 1782977141.9682488,
+    "ast_hash": "cf3360548656d699ea4d1f855f56c4ab",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_max_attempts().md": {
+    "mtime": 1782977141.9411676,
+    "ast_hash": "1a8899a5ee67f663b221f4dabfd5534d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_max_attempts()_1.md": {
+    "mtime": 1782977142.1446579,
+    "ast_hash": "700d5eb35cbbb208f8fc186b6fa96117",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_max_delay().md": {
+    "mtime": 1782977141.94368,
+    "ast_hash": "a267560bbb7d5baee7bae16278034b9d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_max_delay()_1.md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "c53bb4daed52349990f26d5df33aa30e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_mode().md": {
+    "mtime": 1782977141.9184704,
+    "ast_hash": "194252deb0baee0e10171490ce30eaa1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_orders_folder().md": {
+    "mtime": 1782977141.9150112,
+    "ast_hash": "4c9041b23bc330b95efbfb854346d1f7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_report_document().md": {
+    "mtime": 1782977142.0847964,
+    "ast_hash": "e97ee318f9c67fbd4573757058bf8a28",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_report_status().md": {
+    "mtime": 1782977142.0847964,
+    "ast_hash": "b8361796a324e441b7a756aa823297ae",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_reports_folder().md": {
+    "mtime": 1782977141.9150112,
+    "ast_hash": "7ef66d3e495163d55bddb3914da487b3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_restricted_data_token().md": {
+    "mtime": 1782977142.0867648,
+    "ast_hash": "82d8c0d996f78d0713b9b348d6bdb78b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_section().md": {
+    "mtime": 1782977141.9454653,
+    "ast_hash": "86c87717cc803a2c0afa52270cf27b4b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_seller_id().md": {
+    "mtime": 1782977141.950956,
+    "ast_hash": "b242abfc66d0c3b94ddca96f78c82149",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_smtp_host().md": {
+    "mtime": 1782977141.9378204,
+    "ast_hash": "d0400d995699bde85d7a201f0696b7a1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_smtp_port().md": {
+    "mtime": 1782977141.9378204,
+    "ast_hash": "f7e89aff89c159d8149a8163a5dc37b3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_stock_folder().md": {
+    "mtime": 1782977141.9150112,
+    "ast_hash": "410a8657346710d29cb22627619aaca0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_stock_guard_min_rows().md": {
+    "mtime": 1782977141.919304,
+    "ast_hash": "cb09571e9e87eff0fcc1e8b9e4656b05",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_stock_min_valid_ratio().md": {
+    "mtime": 1782977141.919304,
+    "ast_hash": "0f16216a94ad4dc17e369955cc514b67",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_stock_url().md": {
+    "mtime": 1782977141.950956,
+    "ast_hash": "7649c9515edbfb77b780957f6022a44d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_store_logger().md": {
+    "mtime": 1782977141.969291,
+    "ast_hash": "1810590bd180b7a04778976126a74bad",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_store_stock().md": {
+    "mtime": 1782977141.9495037,
+    "ast_hash": "eb9e36e9b68d77c8da5fdb5661e4e9db",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.get_trackings_folder().md": {
+    "mtime": 1782977141.9150112,
+    "ast_hash": "761869e4a57887e2981b97163999bcf0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.has_transport().md": {
+    "mtime": 1782977141.933108,
+    "ast_hash": "94f9dc16320c2bb73c769ccde6116941",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.is_active().md": {
+    "mtime": 1782977141.932516,
+    "ast_hash": "a67ad053530c9a218eafc750869442c1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.is_enabled().md": {
+    "mtime": 1782977141.9075596,
+    "ast_hash": "5e2998c2ad781ed1a0a9638f3217abbb",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.load().md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "1ae889efdd736a824ee88f0030b13663",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.load_accounts().md": {
+    "mtime": 1782977141.8936377,
+    "ast_hash": "af312c53be6f4fe0aad317498eb99af2",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.load_config().md": {
+    "mtime": 1782977141.9035077,
+    "ast_hash": "411507055d2fecc2807abc90d1c1570f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.load_config()_1.md": {
+    "mtime": 1782977141.9150112,
+    "ast_hash": "98e65e225351baea507af91df7042640",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.load_config()_2.md": {
+    "mtime": 1782977141.929636,
+    "ast_hash": "e4852d596594c25dc0e7657bf22061dc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.load_config()_3.md": {
+    "mtime": 1782977141.93714,
+    "ast_hash": "be5ee6ca6dcf2611b1a3a4d7c0e2c1da",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.load_config()_4.md": {
+    "mtime": 1782977141.9411676,
+    "ast_hash": "38066a28b12e951bb5d45851e9409d64",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.load_stocks().md": {
+    "mtime": 1782977141.9474025,
+    "ast_hash": "ed89673d498d2dd25efcd24b856a70ae",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.reload().md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "2e41feec8cf9ba80abfc5f1662d48d07",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.remove_debug().md": {
+    "mtime": 1782977141.9663804,
+    "ast_hash": "5a155bb909e0c3b9068969c9ef7072f6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.request().md": {
+    "mtime": 1782977142.099844,
+    "ast_hash": "4cade52c98278ce18957e3486d2d83fe",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.run_report().md": {
+    "mtime": 1782977142.0867648,
+    "ast_hash": "ec139725d113dbbfd858202f8dd58654",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.run_report()_1.md": {
+    "mtime": 1782977142.1877704,
+    "ast_hash": "2bdb3f51b9d147912cc06de6ebb2def2",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.s3_put().md": {
+    "mtime": 1782977142.0905838,
+    "ast_hash": "fe2b7493d07522addf7e08cbd4390840",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.save().md": {
+    "mtime": 1782977141.9035077,
+    "ast_hash": "ec9ddc80a036a5cd9e945cfb6a8345f1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.save()_1.md": {
+    "mtime": 1782977141.929636,
+    "ast_hash": "d06512b2212c563162f7198fa2e476ba",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.save_config().md": {
+    "mtime": 1782977141.93714,
+    "ast_hash": "47cc4589ed5b53b3dd7b49a8b1b48fad",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.send_feed().md": {
+    "mtime": 1782977142.0867648,
+    "ast_hash": "6a373ab69e5009f88b4b086bb70858d0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.send_file().md": {
+    "mtime": 1782977141.933108,
+    "ast_hash": "276e7ebafb439f66e646aff43c0839c2",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.send_tracking_feed().md": {
+    "mtime": 1782977142.0905838,
+    "ast_hash": "7aba60a1851d65dddd51314a57f5874e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.setUp().md": {
+    "mtime": 1782977142.130499,
+    "ast_hash": "ab06d21e8bbc8cd06822fc27cbdd28db",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.setUp()_1.md": {
+    "mtime": 1782977142.1347287,
+    "ast_hash": "0189af79f502b192b9938f881bf179cf",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.setUp()_2.md": {
+    "mtime": 1782977142.1618757,
+    "ast_hash": "01b3609afb09113969da23f77e7be5dc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.setUp()_3.md": {
+    "mtime": 1782977142.1647751,
+    "ast_hash": "a559c8b380133d1ed7abfd3b54fbdc76",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.set_enabled().md": {
+    "mtime": 1782977141.9052026,
+    "ast_hash": "1660639ba857f474ea529052b2707abc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.set_log_level().md": {
+    "mtime": 1782977141.9655535,
+    "ast_hash": "fc8cec4c50fc61fac534e8b9989c0017",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.stocks_list().md": {
+    "mtime": 1782977141.950956,
+    "ast_hash": "0688cff77b2207399ba39b9fbad4331a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.tearDown().md": {
+    "mtime": 1782977142.130499,
+    "ast_hash": "1c9aa3c1bb53d6fbf58b479729beb667",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.tearDown()_1.md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "3c3bd06dee3b3e1afda905bba1a1543b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.tearDown()_2.md": {
+    "mtime": 1782977142.1618757,
+    "ast_hash": "ed65634e23959314260a45b2c5991f36",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.tearDown()_3.md": {
+    "mtime": 1782977142.1647751,
+    "ast_hash": "7119a7559ac52cae1c2aa8ff9c4d3ca6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_200_ok_calls_limiter_and_returns().md": {
+    "mtime": 1782977142.2291012,
+    "ast_hash": "1c44049687eb55bd416d67188c866305",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_400_falls_back_to_general_type().md": {
+    "mtime": 1782977142.1893747,
+    "ast_hash": "c6643e3da0c5bbb6b817fe8cff5281cd",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_401_raises_auth_and_is_not_retried().md": {
+    "mtime": 1782977142.2296813,
+    "ast_hash": "9471199c416ab9245e87930b77856365",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_401_triggers_refresh_and_retry().md": {
+    "mtime": 1782977142.1471343,
+    "ast_hash": "352e80c196ebe3e73029e7a66ee30258",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_429_then_200_is_retried().md": {
+    "mtime": 1782977142.2296813,
+    "ast_hash": "45f9e5fccd77bc757177dc393cde4ac8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_500_then_200_is_retried().md": {
+    "mtime": 1782977142.2296813,
+    "ast_hash": "dda91876fbc7fb09e06b07299ac834e9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_acronym_and_amz_lowercased().md": {
+    "mtime": 1782977142.1893747,
+    "ast_hash": "1b311902d1aa9e59fc6f3cb211627b38",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_already_lowercase_acronym().md": {
+    "mtime": 1782977142.1893747,
+    "ast_hash": "db859bad5575c96ad5864d423b2031b9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_amazon_data_with_braces_is_not_formatted().md": {
+    "mtime": 1782977142.1734273,
+    "ast_hash": "79903f879e3deb856c0696f8fb0875a3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_bad_config_template_does_not_crash().md": {
+    "mtime": 1782977142.175028,
+    "ast_hash": "70f21155045059af0b7999046212843b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_basic_sections_and_pairs().md": {
+    "mtime": 1782977142.1531198,
+    "ast_hash": "769a76b0421f5755224c90489f179434",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_block_comments_toggle().md": {
+    "mtime": 1782977142.1547475,
+    "ast_hash": "2bb7ea8039e8eefb889571bff638ffd9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_blocks_when_too_many_dropped().md": {
+    "mtime": 1782977142.214775,
+    "ast_hash": "4707b4a4fb5df0f235e07de97233c488",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_boundary_ratio_is_allowed().md": {
+    "mtime": 1782977142.214775,
+    "ast_hash": "eb367df3c5acd6f114e94ea1ae85ff88",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_builds_feed_with_stock_and_price().md": {
+    "mtime": 1782977142.214775,
+    "ast_hash": "5f3fbfe99fd605a190b2cc2c671dcac7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_config_logic_template_is_expanded().md": {
+    "mtime": 1782977142.175028,
+    "ast_hash": "7b8b4aa2b285afc81559d1d07327cc4e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_corrupt_json_is_expired().md": {
+    "mtime": 1782977142.134222,
+    "ast_hash": "9410273877ab3561ea2c00ccf208fba1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_debug_defaults_to_false().md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "e1dfe96107f12d4401333b7a51e61ae1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_debug_flag_reaches_transport().md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "9481008293d8d9276418eabe880b3543",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_default_filters_empty_values_and_sections().md": {
+    "mtime": 1782977142.1628816,
+    "ast_hash": "6787af10a83f6ee22e6e290a85f9dcc9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_does_not_match_other_account().md": {
+    "mtime": 1782977142.2093678,
+    "ast_hash": "49b4f57de4783f862e23ccf5ef12af19",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_duplicate_keys_are_preserved_in_order().md": {
+    "mtime": 1782977142.1531198,
+    "ast_hash": "1a150797f98f2fb97c4ae493834e02f1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_duplicate_sections_are_merged().md": {
+    "mtime": 1782977142.1547475,
+    "ast_hash": "c797c31c9704afef67fd57e7238609ed",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_encrypted_roundtrip().md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "cce6445cc3c59dd9e533315ada283afa",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_endpoints_match_region_grouping().md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "0842346e65eb1872458f98784d02c677",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_every_entry_is_complete().md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "399f10abcab4b20bbf3ed93e441e84b6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_format_preserved().md": {
+    "mtime": 1782977142.1893747,
+    "ast_hash": "0dd2ca4f36d5ee41185d1a6ab9f73019",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_format_string_injection_is_inert().md": {
+    "mtime": 1782977142.175028,
+    "ast_hash": "a1d3c5ba5d40edae3a04cb2dc2d53816",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_full_line_comment_skipped_when_inline_disabled().md": {
+    "mtime": 1782977142.1547475,
+    "ast_hash": "7518e8b6ffb7db3eb72eaa29fbe665b0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_handles_spaces_around_colon().md": {
+    "mtime": 1782977142.2021909,
+    "ast_hash": "3d1590cb8b6ee6c5fd5e954567dafeb3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_hash_preserved_in_values_when_inline_disabled().md": {
+    "mtime": 1782977142.1547475,
+    "ast_hash": "ba04605a7efdd3649a3e2d910823e1ff",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_inline_comments_stripped_when_enabled().md": {
+    "mtime": 1782977142.1547475,
+    "ast_hash": "094e31733f2917d09b9f36eaf83a28a1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_inputs_are_normalized().md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "ce96cff15d4f6ae54d5074bae49fbd97",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_invalid_handling_time_drops_stock_patch().md": {
+    "mtime": 1782977142.2217786,
+    "ast_hash": "7adb178cd0d46eb152bc47318695fff3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_invalid_min_price_drops_price_patch().md": {
+    "mtime": 1782977142.2217786,
+    "ast_hash": "8290c84b24938c8534bff86d91e4e8c9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_keep_empty_preserves_blank_fields().md": {
+    "mtime": 1782977142.1628816,
+    "ast_hash": "561774013afe44594f134e3edefd806c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_known_values_preserved().md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "821d9cf00259c0426fee9c2bafb53b65",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_legacy_plaintext_file_is_expired().md": {
+    "mtime": 1782977142.13342,
+    "ast_hash": "1ca949601da3fdc9bc90f892536bdba1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_legacy_plaintext_read_with_keys_is_expired().md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "0c8b821ae5f1cfe32b8cad423af932f3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_legacy_v1_still_loads().md": {
+    "mtime": 1782977142.1691995,
+    "ast_hash": "42a742c15334f66fdb90f19c8fb19a60",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_lowercase_acronym_too().md": {
+    "mtime": 1782977142.2093678,
+    "ast_hash": "fb4177c6307619837e809ea06faa888c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_lowercase_file_uppercase_acronym().md": {
+    "mtime": 1782977142.2064404,
+    "ast_hash": "5b2352339c5ce50e9d8e2d305a096c35",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_malformed_line_reported_and_skipped().md": {
+    "mtime": 1782977142.1547475,
+    "ast_hash": "0508fd696f196eae235abd8f324a7fec",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_missing_file().md": {
+    "mtime": 1782977142.1326258,
+    "ast_hash": "73c2070cf10269d4f2589df653c7089a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_missing_file_raises_config_error().md": {
+    "mtime": 1782977142.1647751,
+    "ast_hash": "12997a1035ab954e9da31d28bdfc36de",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_na_uses_shipping_type().md": {
+    "mtime": 1782977142.1893747,
+    "ast_hash": "5c8834825dc37516d2aa5edd76bd3584",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_network_error_then_200_is_retried().md": {
+    "mtime": 1782977142.2296813,
+    "ast_hash": "22c7b094df71f4525e8da59501e1a4cc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_no_rate_means_no_sleep().md": {
+    "mtime": 1782977142.1961188,
+    "ast_hash": "c938f2c51c66960e850b37afc8df8f65",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_non_sensitive_body_unchanged().md": {
+    "mtime": 1782977142.2032633,
+    "ast_hash": "c31f3f586870f5ba59b85cd33f0285df",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_other_errors_propagate_without_fallback().md": {
+    "mtime": 1782977142.1893747,
+    "ast_hash": "dc4b38102c5e17cab02cdb3d41d813e3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_pairs_and_comments().md": {
+    "mtime": 1782977142.1600733,
+    "ast_hash": "d07b679b21cf82b5bcc3fd939258d715",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_passes_when_ratio_above_min().md": {
+    "mtime": 1782977142.214775,
+    "ast_hash": "76cd371009a300af906f12ad6ae112d3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_persistent_429_raises_throttle().md": {
+    "mtime": 1782977142.2296813,
+    "ast_hash": "8711aa6ddcc7826b57421290082b6ea0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_persistent_500_raises_server_error().md": {
+    "mtime": 1782977142.2296813,
+    "ast_hash": "7dbb699cf5a1db652d6fef3e9c0b55b3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_poll_exhaustion_degrades_to_none_not_fallback().md": {
+    "mtime": 1782977142.1893747,
+    "ast_hash": "d6e85ccf4463369d5214f0a3a33f80ac",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_previously_missing_countries_now_resolve().md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "aee3538399aaa28bb9851a1f3e7a41cb",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_price_above_max_omits_product().md": {
+    "mtime": 1782977142.214775,
+    "ast_hash": "821f8343bf189745c0b3a1f4990fde13",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_price_below_min_omits_product().md": {
+    "mtime": 1782977142.214775,
+    "ast_hash": "2df8de10cc9c4c67833bb96d05fa07fe",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_price_equal_to_bound_is_allowed().md": {
+    "mtime": 1782977142.214775,
+    "ast_hash": "792712fc53e02f0c5a1eccf2c031f269",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_price_out_of_range_omits_even_with_stock().md": {
+    "mtime": 1782977142.214775,
+    "ast_hash": "4004685cc048bd71d72ff270778b1b4d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_price_within_range_publishes_with_bounds().md": {
+    "mtime": 1782977142.214775,
+    "ast_hash": "d8a56018d161654ee959d1c3faefd12f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_quota_exceeded_in_body_is_throttled().md": {
+    "mtime": 1782977142.2296813,
+    "ast_hash": "380d3828b7b65f8d03d8a38fb699e620",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_reads_plain_text().md": {
+    "mtime": 1782977142.1647751,
+    "ast_hash": "f3ac26a712abb9790574c7f64b7d589c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_redacts_presigned_url().md": {
+    "mtime": 1782977142.2013981,
+    "ast_hash": "1b6623186fd237e0f270b3a8bc623523",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_redacts_restricted_data_token().md": {
+    "mtime": 1782977142.2013981,
+    "ast_hash": "a9ccf7943b2884171cdbded81354d330",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_report_status_polls_until_terminal().md": {
+    "mtime": 1782977142.1471343,
+    "ast_hash": "8eda14ea5ec5735a9d93775b06aa51bf",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_requires_underscore_separator().md": {
+    "mtime": 1782977142.2093678,
+    "ast_hash": "642adf80a5e59591558b318aa79fa478",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_respects_safety_margin().md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "5861f36aba00c2991f6a5121f93f2911",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_roundtrip().md": {
+    "mtime": 1782977142.130499,
+    "ast_hash": "4fdd5d02bdf2933ca7de71d70328b34b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_row_without_sku_is_skipped().md": {
+    "mtime": 1782977142.214775,
+    "ast_hash": "2ab7ce6445ecdc9fd2a59bc8730b031a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_run_report_decompresses_gzip_document().md": {
+    "mtime": 1782977142.1471343,
+    "ast_hash": "d370ef3bcccd2fddbdeef01e2a0f72a1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_run_report_full_chain_plain_document().md": {
+    "mtime": 1782977142.1471343,
+    "ast_hash": "71d6e7e3cadd8bc0bd90bdaaa53d1834",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_run_report_raises_on_terminal_failure().md": {
+    "mtime": 1782977142.1502354,
+    "ast_hash": "d4cc8ee73f44273517b96132378a31f8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_run_report_without_document_returns_empty_content().md": {
+    "mtime": 1782977142.1502354,
+    "ast_hash": "0a5f92767b5650f376d002cbbe4b4e20",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_section_names_keep_original_case().md": {
+    "mtime": 1782977142.158513,
+    "ast_hash": "7fae3bbe76e7b568bc5a76bd383f0793",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_send_tracking_feed_raises_when_s3_put_fails().md": {
+    "mtime": 1782977142.1502354,
+    "ast_hash": "f0a7f36013adf20d59070ab13ad1e97f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_small_feeds_skip_guard().md": {
+    "mtime": 1782977142.214775,
+    "ast_hash": "ac2fc6f9f37cde52eed05fc83de13d6a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_start_is_midnight().md": {
+    "mtime": 1782977142.1961188,
+    "ast_hash": "6a820a5cca82dc077347274a303c3635",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_stock_only_without_price_publishes().md": {
+    "mtime": 1782977142.2217786,
+    "ast_hash": "9d0030432327fbf14427afd21c1871a5",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_success_does_not_fall_back().md": {
+    "mtime": 1782977142.1893747,
+    "ast_hash": "488ccc4ad5c76889559aa688abb5a8b6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_throttles_after_burst_is_drained().md": {
+    "mtime": 1782977142.1961188,
+    "ast_hash": "670e25b25875338f57ffa4407cbbbb3d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_unexpected_construction_error_does_not_kill_batch().md": {
+    "mtime": 1782977142.2064404,
+    "ast_hash": "cb45b81048789c6ad9b42ad751f3f131",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_update_ignores_missing_or_invalid_header().md": {
+    "mtime": 1782977142.1961188,
+    "ast_hash": "a3c20ae1c48964652d0e20d1df93e945",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_uppercase_file_uppercase_acronym().md": {
+    "mtime": 1782977142.2093678,
+    "ast_hash": "a8ac124e75dc157259cc5308c8228070",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_v2_roundtrip().md": {
+    "mtime": 1782977142.1691995,
+    "ast_hash": "6324a92187f0e16ecafd030976c09e16",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_v2_tamper_detected().md": {
+    "mtime": 1782977142.1691995,
+    "ast_hash": "a4b0cded78d83cb03a97e36979e51627",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_v2_wrong_password_rejected().md": {
+    "mtime": 1782977142.1691995,
+    "ast_hash": "777c114c22a7979475f1013609585e9d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_window_is_7_days_ending_now().md": {
+    "mtime": 1782977142.1956005,
+    "ast_hash": "26ffad0118514947fd932c5c18052f63",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.test_wrong_key_is_expired().md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "42bc54e62cce737b9fb388b5605fbe8a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.transform().md": {
+    "mtime": 1782977141.9270868,
+    "ast_hash": "bc663a0ef38f3a92f155154ea153b3b1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.update().md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "cfa6214ee131824abe43e26b8a55a6c3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.update()_1.md": {
+    "mtime": 1782977142.227414,
+    "ast_hash": "1a2f74e30abaa960e1ead734b4639001",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.wait().md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "6dfdc865f157a46a31c4c3a101bbc84b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/.wait()_1.md": {
+    "mtime": 1782977142.227414,
+    "ast_hash": "490210cf83af243f0be0a107c61aa737",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Account acronym cosmic - COS.md": {
+    "mtime": 1782977142.271406,
+    "ast_hash": "050832ddf1a2014a456f8b2695c36815",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AccountClients.md": {
+    "mtime": 1782977142.0149071,
+    "ast_hash": "22301348c34503417db6d361609e55f0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Accounts.py.md": {
+    "mtime": 1782977141.8863647,
+    "ast_hash": "5131362116300637dafcb40bc67edb77",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AccountsConfig.md": {
+    "mtime": 1782977141.8918047,
+    "ast_hash": "6845c3d0136bc3de88d4440dc3a7bb1b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Acronyms.py.md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "63026b9b56071c76b043309ae9945814",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AcronymsConfig.md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "2ad72b00a3a2de90c73c30eb018bf3ba",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Acr\u00f3nimos por cuenta (acronyms.txt). Fichero ausente = sin acr\u00f3nimos.      Sin.md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "3584532191959a5376bc60ef4c0bc671",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Actualiza el rate desde la cabecera de respuesta de Amazon.          Es s\u00edncrono.md": {
+    "mtime": 1782977142.0660398,
+    "ast_hash": "390b5d9a1beae317302fcb9c97e7d882",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Aislamiento de fallos por cuenta en el runner.  Regresi\u00f3n (alta) el pase 2 movi.md": {
+    "mtime": 1782977142.2064404,
+    "ast_hash": "d01de69bd9bcc45b5c31a33f44f8ef96",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AmazonAPIError.md": {
+    "mtime": 1782979170.9966393,
+    "ast_hash": "376287802878027f8a067ce8bb714b74",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AmazonAuthError.md": {
+    "mtime": 1782979174.3546336,
+    "ast_hash": "864b54572126aea51273bcf2baaa77c7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AmazonClient.md": {
+    "mtime": 1782977142.0808158,
+    "ast_hash": "19e9d06c93a9a25c9abd352553e80c21",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AmazonClient.run_report() report orchestrator.md": {
+    "mtime": 1782977142.245065,
+    "ast_hash": "1c5adc9f5379eabe50acc5e33c95a55b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AmazonError.md": {
+    "mtime": 1782977142.053243,
+    "ast_hash": "732953e5b6ce87d6787d2acef4cbe00c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AmazonFeedNotReadyError.md": {
+    "mtime": 1782977142.0080566,
+    "ast_hash": "d414705e64543e04915519e6681dcbc1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AmazonReportNotReadyError.md": {
+    "mtime": 1782977142.0080566,
+    "ast_hash": "be7a2f55ddc06c111a4e152b68b054b5",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AmazonServerError.md": {
+    "mtime": 1782977142.0075388,
+    "ast_hash": "1d7f3337895ee6581123d2616b9ab6a4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AmazonThrottleError.md": {
+    "mtime": 1782977142.0063958,
+    "ast_hash": "695da45dc5c4aaabb9b1f4e46465edbc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Applications.py.md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "7e30707fb2069caa3b2f4ae0a66eb296",
+    "semantic_hash": ""
+  },
+  "python-code-vault/ApplicationsConfig.md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "b17b500b81e890e6d29ce0ca37ff57f1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Async rate limiter for the Amazon SP-API (token-bucket per regionendpoint).  Re.md": {
+    "mtime": 1782977142.0647106,
+    "ast_hash": "9f63ac08d3fff60c6f9a349d26283127",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Async refactor of SP-API integration.md": {
+    "mtime": 1782977142.245065,
+    "ast_hash": "b22952e012268af6581e0070395828cd",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AsyncClient.md": {
+    "mtime": 1782977141.980317,
+    "ast_hash": "8e0bcc309c778dbc29099d6b3fb73535",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AsyncClient_1.md": {
+    "mtime": 1782977142.099844,
+    "ast_hash": "bf9b610747ed3e1ae4d2a6c2a16f384e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AsyncTokenBucket.md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "96f7f78ef4d5f2128d5a38c3ee152a01",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AsyncTokenProvider.md": {
+    "mtime": 1782977141.980317,
+    "ast_hash": "0d856d6e09c96eb56e6c3db97979e7ab",
+    "semantic_hash": ""
+  },
+  "python-code-vault/AsyncTransport.md": {
+    "mtime": 1782977142.099844,
+    "ast_hash": "98fc781aebc1d1f7ee22be870ed227f7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/B1 rate-limiter no-op (read _rates not _last_call).md": {
+    "mtime": 1782977142.245065,
+    "ast_hash": "629201fc9633cd27b61791e5f6a26997",
+    "semantic_hash": ""
+  },
+  "python-code-vault/B2 factorjitter parsed but unused.md": {
+    "mtime": 1782977142.2519495,
+    "ast_hash": "2593b7c4994b1cb1d6e75d81d6c70e66",
+    "semantic_hash": ""
+  },
+  "python-code-vault/B3 .env.secret hex vs 64 raw bytes mismatch.md": {
+    "mtime": 1782977142.2525866,
+    "ast_hash": "9e741c5510bc4564a857adb4d072f9af",
+    "semantic_hash": ""
+  },
+  "python-code-vault/B4 dead enrich_feed_with_product_types removed.md": {
+    "mtime": 1782977142.253457,
+    "ast_hash": "d390ca75db766c7ff058185be2b5a63f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/B5 401 did not refresh token (only 429 handled).md": {
+    "mtime": 1782977142.253457,
+    "ast_hash": "64bf3a36c701a5795d94ee4ef629e232",
+    "semantic_hash": ""
+  },
+  "python-code-vault/B6 detect_separator got route not content.md": {
+    "mtime": 1782977142.254773,
+    "ast_hash": "1c781ca17a1018989626ceb030e8b445",
+    "semantic_hash": ""
+  },
+  "python-code-vault/B7 no request timeouts (except auth refresh).md": {
+    "mtime": 1782977142.2558932,
+    "ast_hash": "cf813355322fa42ea057b67a28fdea9d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Base compartida del paquete de configuraci\u00f3n (pase 2 del refactor).  Sustituye l.md": {
+    "mtime": 1782977141.9569256,
+    "ast_hash": "25599927aee55265ef1e2d9285a50753",
+    "semantic_hash": ""
+  },
+  "python-code-vault/BaseException.md": {
+    "mtime": 1782977141.9783628,
+    "ast_hash": "f956badacf41236141cf9d59a87b9189",
+    "semantic_hash": ""
+  },
+  "python-code-vault/BaseModel.md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "01b6509637c2b736eb7426b0dab16f3f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Borra el TSV temporal cuando el env\u00edo del feed fall\u00f3 (no llega a archivarse)..md": {
+    "mtime": 1782977142.2398043,
+    "ast_hash": "0971a315d206dcfe5c77eeafba7a89f6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Cadena completa create - poll hasta estado terminal - download.          - DO.md": {
+    "mtime": 1782977142.0949137,
+    "ast_hash": "8ebac7a9cf7918db807c77012e313a22",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Call chain module - AmazonClient - AsyncTransport - httpx.AsyncClient.md": {
+    "mtime": 1782977142.245065,
+    "ast_hash": "21bf038ff674e1bc6d98ce0063052ef6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Capa de transporte async para la SP-API.  Una sola corrutina `request()` concent.md": {
+    "mtime": 1782977142.1065698,
+    "ast_hash": "6ae61ef79aee613637117b1903a84996",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Carga la configuraci\u00f3n de stocks desde stock.ini.     Claves permitidas las que.md": {
+    "mtime": 1782977141.950956,
+    "ast_hash": "b3c7154f667495ccbb865c5ab78ee960",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Cifrado de la llave maestra en secret_keys.bin (ruta CLI con contrase\u00f1a).  Forma.md": {
+    "mtime": 1782977142.0748198,
+    "ast_hash": "586973e830f1304b9002674a2fed246a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/ColorFormatter.md": {
+    "mtime": 1782977141.9610238,
+    "ast_hash": "c908978d5f4d7f1d9fe1bc1fe603a66e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/ColorFormatter.py.md": {
+    "mtime": 1782977141.9610238,
+    "ast_hash": "0e1dd980523e12707457d8626f19006b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Common.py.md": {
+    "mtime": 1782977141.9075596,
+    "ast_hash": "2e3c8cd46e97276b4cabef7f2c919e9e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/CommonConfig.md": {
+    "mtime": 1782977141.9075596,
+    "ast_hash": "838edabcfab92501590629bf8fd3f72d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/ConfigError.md": {
+    "mtime": 1782977141.9531887,
+    "ast_hash": "09deacbfa5ede522c3c9156c0daa5ad5",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Configuraci\u00f3n ausente, ilegible o inv\u00e1lida..md": {
+    "mtime": 1782977141.9590547,
+    "ast_hash": "1c36955fb387429d1e3ae73d6ed60b8c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Configurar el logger con separaci\u00f3n entre operaciones exitosas, errores y depura.md": {
+    "mtime": 1782977141.969291,
+    "ast_hash": "d843cd936b01126eb149a7b7908b2459",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Construcci\u00f3n del feed JSON_LISTINGS_FEED de stockprecios.  Descompone el god-me.md": {
+    "mtime": 1782977142.0984137,
+    "ast_hash": "4a9b9eaa3d670d27cffd4afc2213efc4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Copia el CSV final transformado al mismo backup (best-effort, tras transformar)..md": {
+    "mtime": 1782977142.1216247,
+    "ast_hash": "c52e8320f2b948d459e5daafdc21c3a8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/CreateFeedDocumentResponse.md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "6f9fd7fc1ee8ef67aac78c07db7b00b8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/CreateFeedResponse.md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "ce4373330d3f6600e7c372ad23be5bd8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/CreateReportResponse.md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "b03fa7a1cebd802da36b9d63644a43fa",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Credenciales LWA de las aplicaciones (applications.amzapps, cifrado)..md": {
+    "mtime": 1782977141.9075596,
+    "ast_hash": "a57fde89c66d29eb3fc436914a3c721a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Cuenta SMTP ra\u00edz (mail.email, cifrado).      Novedad del pase 2 `smtp_host` y `.md": {
+    "mtime": 1782977141.9404333,
+    "ast_hash": "90a4f77b62825d1acb5042eb46306343",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Cuentas de transporte FTPSFTP (ftp_accounts.amzaccs, cifrado).      Pase 2 la.md": {
+    "mtime": 1782977141.9340086,
+    "ast_hash": "0d646f8389b45358dc8fc8662858fae4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Cuentas de vendedor (accounts.ini).      Ya no es singleton cada construcci\u00f3n r.md": {
+    "mtime": 1782977141.895974,
+    "ast_hash": "372128acb459478d3dd4ee7ba37899cc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/DataFrame.md": {
+    "mtime": 1782977142.017886,
+    "ast_hash": "6cc32ae67c2fe17fb5a8a6a5a91ebe2a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/DataFrame_1.md": {
+    "mtime": 1782977142.244055,
+    "ast_hash": "304ccc1222be93e9843df2c9e75cfa1a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/DataTransformer._apply_logic format_map SOLO sobre plantillas de config.  Antes.md": {
+    "mtime": 1782977142.175028,
+    "ast_hash": "d0847abf5a357e40cfd3d11a3b7f0d6e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/DataTransformer.md": {
+    "mtime": 1782977141.9229293,
+    "ast_hash": "b4e2edd512bf7eb95888173bbb1621e2",
+    "semantic_hash": ""
+  },
+  "python-code-vault/DataTransformer.py.md": {
+    "mtime": 1782977141.9229293,
+    "ast_hash": "6da69144fae11716d0f9729240010aea",
+    "semantic_hash": ""
+  },
+  "python-code-vault/DataTransformer_1.md": {
+    "mtime": 1782977142.245065,
+    "ast_hash": "f2f10ccecd40acc42f62d803520ef0b8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Descarga el stock remoto de una regi\u00f3n, construye el feed y lo env\u00eda.      `guar.md": {
+    "mtime": 1782977142.125077,
+    "ast_hash": "74964822835f4222db8ab1af735edff1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Descomprime un blob gzip a texto..md": {
+    "mtime": 1782977142.0336726,
+    "ast_hash": "d73f891028b79a5b99eba492b9bab14a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Detecta autom\u00e1ticamente si el contenido est\u00e1 separado por tabulaciones o comas u.md": {
+    "mtime": 1782977142.0276368,
+    "ast_hash": "ab3d739b696d7d63083eae9bc40afdb7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Devuelve (key, hmac_key).      - auto=True  \u2192 intenta leer .env.secret en bina.md": {
+    "mtime": 1782977142.0808158,
+    "ast_hash": "21b2d6d3fc661dc2fe3ddc890b5e83e5",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Devuelve (key, hmac_key). Lee v2 (autenticado) y, por compatibilidad, v1..md": {
+    "mtime": 1782977142.0748198,
+    "ast_hash": "38b21a3bf3e5cd202abc45954500a401",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Devuelve (token, expires_at).      Con keyhmac_key el fichero se descifra (AES+.md": {
+    "mtime": 1782977141.9862654,
+    "ast_hash": "df779bf185514c1b83b63ff367f9e909",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Devuelve el logger configurado..md": {
+    "mtime": 1782977141.969291,
+    "ast_hash": "2e7b9720074050955f5501bcc5a7e359",
+    "semantic_hash": ""
+  },
+  "python-code-vault/ES de ficheros locales y remotos de los m\u00f3dulos.  Cambios del pase 2 - Sin sid.md": {
+    "mtime": 1782977142.0265477,
+    "ast_hash": "2b5ff526092eb675bffec88a0adb4a29",
+    "semantic_hash": ""
+  },
+  "python-code-vault/El flag `debug` debe fluir AccountClients - AsyncTransport.  Regresi\u00f3n en modo.md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "412b9e9b400ea77f98a2150b72fcc2cf",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Endpoint SP-API + regi\u00f3n AWS + tiendas de un mercado ('eu'  'na')..md": {
+    "mtime": 1782977142.052886,
+    "ast_hash": "44a7c447f899ef02cfcdc5ab38dffa97",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Env\u00eda `body` a todos los correos de configemails.txt.      Carga MailConfig UNA.md": {
+    "mtime": 1782977142.0447838,
+    "ast_hash": "90d4c50cc8e33036d4a7105940f65205",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Env\u00eda `local_path` seg\u00fan `cfg` (hostusernamepasswordfolder_inportftp_mode)..md": {
+    "mtime": 1782977142.0318127,
+    "ast_hash": "be8bd7c4bc8e94bb7b9f24e885e0d762",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Env\u00eda un correo usando SMTP seguro.     param recipient Destinatario     para.md": {
+    "mtime": 1782977142.0447838,
+    "ast_hash": "c9bc7e509f3079c62e467751f2f36a23",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Env\u00edo de ficheros por FTPSFTP (mec\u00e1nica de red, sin configuraci\u00f3n).  Separado d.md": {
+    "mtime": 1782977142.0296507,
+    "ast_hash": "fa06f403c2b534280ae3dd6438ee5301",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Error 401 (Unauthorized).md": {
+    "mtime": 1782977142.0138283,
+    "ast_hash": "ce6ceef4d2cc20a0137e4b02224bb972",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Error 429  Quota Exceeded.md": {
+    "mtime": 1782977142.0100684,
+    "ast_hash": "6c1285d08da6858535d58f8c69f31207",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Error 5xx de la SP-API (transitorio se reintenta en el transporte).md": {
+    "mtime": 1782977142.0113416,
+    "ast_hash": "ab54ca9838322daeef3463ebb2a1c432",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Errores generales de la API.      `status_code``body` permiten a los llamadores.md": {
+    "mtime": 1782977142.0100684,
+    "ast_hash": "a2ab1f494e1bef323945e981e6713eb4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Exception.md": {
+    "mtime": 1782977141.9546824,
+    "ast_hash": "34cbff3b8567ec557da89f957becf36d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Expande una plantilla de CONFIG con context_vars + fila.          Tolera plant.md": {
+    "mtime": 1782977141.9270868,
+    "ast_hash": "cd63cc8d6b8e44f223ad022957033a56",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F1 FTP order upload gate revived (FTPConfig is_active).md": {
+    "mtime": 1782977142.2558932,
+    "ast_hash": "bbcede014b8caf20d347bc107ef73cdc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F10 SMTP hostport configurable in mail.email.md": {
+    "mtime": 1782977142.2558932,
+    "ast_hash": "f6c38004f02b2f96f825b4bbbd229b17",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F11 brand_analytics module removed (never worked, optional).md": {
+    "mtime": 1782977142.2612054,
+    "ast_hash": "6edcf566a02294a6ba9f5c31dff1dddb",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F12 invalid config raises ConfigError instead of sys.exit(1).md": {
+    "mtime": 1782977142.2612054,
+    "ast_hash": "bf6e6b5144557b10c54a4bec0205418b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F13 app_control --tokens TypeError fixed; getpass import.md": {
+    "mtime": 1782977142.2626772,
+    "ast_hash": "cdb0d05bf03aaffce13453b048dc42fd",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F14 VAT RDT via download_report_content, decompress by compressionAlgorithm.md": {
+    "mtime": 1782977142.2626772,
+    "ast_hash": "1138667ba0830308f8aeb2e1cd67a734",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F15 debug mode restored (runner derives debug - AccountClients - AsyncTransport).md": {
+    "mtime": 1782977142.2626772,
+    "ast_hash": "b0a8ed0482236b0231441cca112e3338",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F16 account isolation restored (except Exception + return_exceptions).md": {
+    "mtime": 1782977142.2626772,
+    "ast_hash": "e7359a0d93032ae50d39c7c77746cf55",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F17 quota-in-body AmazonThrottleError carries statusbody; atomic token cache (os.replace).md": {
+    "mtime": 1782977142.2647314,
+    "ast_hash": "25c5a8436194301958e6f67655dc9693",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F18 run_report raises on CANCELLEDFATAL terminal failure.md": {
+    "mtime": 1782977142.26525,
+    "ast_hash": "13505e657f4107c95bfc4ffa0d8178c0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F19 to_thread config decrypt; force_refresh re-check under lock; _poll max(1,attempts); delete_token no secret leak.md": {
+    "mtime": 1782977142.2659948,
+    "ast_hash": "bbc283c83c3c59b0e9494ffaf74467e9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F2 extra marketplaces (be,nl,za,eg,tr,sa,ae,in,br) resolve regioncurrencylocale.md": {
+    "mtime": 1782977142.2558932,
+    "ast_hash": "b671b09316cd93b2ad183c0d6abd7a1d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F20 send_tracking_feed checks s3_put status, raises on failure (avoids empty feed + data loss).md": {
+    "mtime": 1782977142.2668235,
+    "ast_hash": "ac7be65562bf6a3245a7ba7d9f045566",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F21 stock removed spurious content_encoding=gzip (SP-API Feeds contract).md": {
+    "mtime": 1782977142.2668235,
+    "ast_hash": "0f4362d4df01cf1b274b6f97ec108031",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F22 trackings TSV cleanup on S3 fail; stock _verify_feed honors compressionAlgorithm; PII_REQUIRED typo fix.md": {
+    "mtime": 1782977142.2668235,
+    "ast_hash": "75b79a30b09bfdbd246bb7e80600211e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F23a access-token cache encrypted at rest (AES+HMAC via data_protector).md": {
+    "mtime": 1782977142.2686079,
+    "ast_hash": "1d6802a176b0fd89b722340ea227e7ec",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F23b _log_debug redacts response body (RDT, pre-signed S3 URL).md": {
+    "mtime": 1782977142.269122,
+    "ast_hash": "30bc5d6ccba2d1f96b37e0c35062364e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F23c orders archives raw before transforming (archive_rawarchive_final).md": {
+    "mtime": 1782977142.269122,
+    "ast_hash": "5a61168cba079ae6f95c58065316a8ad",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F23d trackings deletes original only if feed DONE without critical errors.md": {
+    "mtime": 1782977142.269122,
+    "ast_hash": "622849d2b19dcdfe1ecaf20c94d2a273",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F23e DataTransformer format_map only on config templates, never Amazon data.md": {
+    "mtime": 1782977142.270584,
+    "ast_hash": "e5d4f2765f7fd99ee97f4d30c1f751e4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F24a secret_keys.bin crypto v2 (PBKDF2-SHA256600k + Encrypt-then-MAC), v1 migration.md": {
+    "mtime": 1782977142.270584,
+    "ast_hash": "e2b99e5a13268448a33a6738ac1ce7d3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F24b stock sanity-guard (min valid SKU ratio, mail alert, do not publish).md": {
+    "mtime": 1782977142.271406,
+    "ast_hash": "23d39f372e30a9907639a1b09673dbc1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F25 trackings acronym file match case-insensitive (_belongs_to_acronym).md": {
+    "mtime": 1782977142.271406,
+    "ast_hash": "db49366cbd7f84bf1778ce3aa38d3808",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F26 orders local file uses lowercase acronym+amz ({id}_cos_amz.txt).md": {
+    "mtime": 1782977142.271406,
+    "ast_hash": "5a08fee94bd4027edca9911333c1265a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F27 orders 7-day date window (0000 seven days ago - now).md": {
+    "mtime": 1782977142.271406,
+    "ast_hash": "586a182a67319cbe66e8e88028eaecb4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F3 orders fallback only on HTTP 400 (not any error).md": {
+    "mtime": 1782977142.2558932,
+    "ast_hash": "34d74ad286aff3b914a35380adc673de",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F4 transport retries 5xx and network errors.md": {
+    "mtime": 1782977142.2558932,
+    "ast_hash": "ecb11eccacdc0b1ddd0c414ce16562c8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F5 access-token cache using LWA expires_in (JSON expires_at).md": {
+    "mtime": 1782977142.2558932,
+    "ast_hash": "d7df6f699157c4157e24c0b18b073e9c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F6 LWA refresh retried 3x on network5xx.md": {
+    "mtime": 1782977142.2558932,
+    "ast_hash": "5346e21b7c6ef7d3835d590028077528",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F7 save_vat_report creates target directory.md": {
+    "mtime": 1782977142.2558932,
+    "ast_hash": "109597d317e65ee40fced8352fefcefd",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F8 account regions (EUNA) processed in parallel in orders.md": {
+    "mtime": 1782977142.2558932,
+    "ast_hash": "a2f2db19491ea4b9c715998d46f576bd",
+    "semantic_hash": ""
+  },
+  "python-code-vault/F9 stock regionmarket check before download; S3 != 200 skips feed.md": {
+    "mtime": 1782977142.2558932,
+    "ast_hash": "13c93a90a7879711faf803efbbd97e65",
+    "semantic_hash": ""
+  },
+  "python-code-vault/FTPConfig (config + FTP policy).md": {
+    "mtime": 1782977142.245065,
+    "ast_hash": "18b0d45a8cf16fa51d0f1545fdaf1110",
+    "semantic_hash": ""
+  },
+  "python-code-vault/FTPConfig.md": {
+    "mtime": 1782977141.9284604,
+    "ast_hash": "5cb1d8cb83c5aa9f7c1025a5cd85d687",
+    "semantic_hash": ""
+  },
+  "python-code-vault/FTPTransport.py.md": {
+    "mtime": 1782977141.9284604,
+    "ast_hash": "307e0433715b5cb42231cbdd2ed703c1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Factory ensambla los recursos async de una cuenta y produce AmazonClient.  Reem.md": {
+    "mtime": 1782977142.017886,
+    "ast_hash": "6489b67b0551be4aa2f63dc684ed6c9a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/FakeClient.md": {
+    "mtime": 1782977142.1869023,
+    "ast_hash": "17abaf204877fb92c179d4ce2cbda574",
+    "semantic_hash": ""
+  },
+  "python-code-vault/FakeLimiter.md": {
+    "mtime": 1782977142.2253807,
+    "ast_hash": "b67407e9c1df558163669f9472cec771",
+    "semantic_hash": ""
+  },
+  "python-code-vault/FakePolling.md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "dadd19a032140717a580a3c0d80329d5",
+    "semantic_hash": ""
+  },
+  "python-code-vault/FakeTokens.md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "de58d5cc3b4dc063faccafb9cd59e693",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Feed processing (IN_QUEUE  IN_PROGRESS).md": {
+    "mtime": 1782977142.0128279,
+    "ast_hash": "b56ac233903e3fa1dc09f89fa2d3b999",
+    "semantic_hash": ""
+  },
+  "python-code-vault/FeedDocumentResponse.md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "ee1e0321c87993fe0424f2267a12ae80",
+    "semantic_hash": ""
+  },
+  "python-code-vault/FeedStatusResponse.md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "fa52aea2ad419947a34d45133f16f498",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Fracci\u00f3n m\u00ednima de filas con SKU v\u00e1lido para publicar el feed (sanity-guard)..md": {
+    "mtime": 1782977141.9208336,
+    "ast_hash": "1013492e27f0c08ca2b5fdbd9f550aa9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Funciones de logging del proyecto (info  error  debug + contexto).  Pase 2 la.md": {
+    "mtime": 1782977142.0401256,
+    "ast_hash": "ae72c0f19f9217a74ef497a9acb4c4e0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/GRAPH_REPORT.md": {
+    "mtime": 1782979145.6018445,
+    "ast_hash": "91ab9f7f1a1fa1052ab745f495888031",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Golden tests de la transformaci\u00f3n del feed de stock (sin red ni API).  Fijan la.md": {
+    "mtime": 1782977142.2217786,
+    "ast_hash": "cf38536a4f83c51923c335b4728daf9d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Guarda el backup DURABLE de los datos crudos de Amazon y devuelve la ruta..md": {
+    "mtime": 1782977142.1204295,
+    "ast_hash": "7de635c6ff223dbf899a675f1801e9c3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Guarda los datos del reporte fiscal (ya procesados) en un archivo TSV     bajo.md": {
+    "mtime": 1782977142.0276368,
+    "ast_hash": "78304f99462685f67f0989b91e6cd687",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Handler que responde la cadena completa create-status-RDT-doc-S3..md": {
+    "mtime": 1782977142.1502354,
+    "ast_hash": "79662a55fae24052f78160a3d352376c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Imprime mensajes de depuraci\u00f3n (solo en modo debug).      Args         message.md": {
+    "mtime": 1782977142.0401256,
+    "ast_hash": "3acbd3e1d66dd5f825e05f0941476e77",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Imprime mensajes de error o advertencia.      Args         message (str  bytes.md": {
+    "mtime": 1782977142.0401256,
+    "ast_hash": "7f60b32800f506ca4cddda77647d6194",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Imprime mensajes informativos (success).      Args         message (str  bytes.md": {
+    "mtime": 1782977142.0401256,
+    "ast_hash": "5f6c3bd7088c30759a609687dc0e160c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Lee archivo remoto (CSV o TSV) detectando autom\u00e1ticamente el separador.     BLOQ.md": {
+    "mtime": 1782977142.0276368,
+    "ast_hash": "c81ab9d5eb387e7097b6560869174c09",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Lee el fichero como texto; si hay llaves, lo descifra antes..md": {
+    "mtime": 1782977141.9599879,
+    "ast_hash": "672cbcf4faf2092f07d1d0ec1a1bf770",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Lock.md": {
+    "mtime": 1782977141.9836931,
+    "ast_hash": "41bd0c31ed102a8be805a7630400d949",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Logger.md": {
+    "mtime": 1782977141.964001,
+    "ast_hash": "0986c9299b3d8627bae6edb6730c4051",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Logger.py.md": {
+    "mtime": 1782977141.964001,
+    "ast_hash": "39a7d33c19a555379d15082cf921d3d7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Mail.py.md": {
+    "mtime": 1782977141.9350214,
+    "ast_hash": "2ab71a83432972c8a3b87d2c471a27b1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/MailConfig.md": {
+    "mtime": 1782977141.9350214,
+    "ast_hash": "1c666e52dcde1acbaf80468af0bf0ae9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Maneja configuraci\u00f3n global com\u00fan desde common.ini.     reports_folder es obliga.md": {
+    "mtime": 1782977141.919304,
+    "ast_hash": "fa2060dc8a84f6e9ccb311c99a19a5d7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Marketplace.md": {
+    "mtime": 1782977142.0447838,
+    "ast_hash": "fe09fde89dccd6490a0243581f9b445a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Match de fichero de trackings por acr\u00f3nimo, sin distinguir may\u00fasculas.  Regresi\u00f3.md": {
+    "mtime": 1782977142.2093678,
+    "ast_hash": "fe02b8e5442dcdc67499e0cd05b8a8ce",
+    "semantic_hash": ""
+  },
+  "python-code-vault/M\u00f3dulo VAT reporte GET_VAT_TRANSACTION_DATA (async).  Pase 2 - Contrato nuevo.md": {
+    "mtime": 1782977142.245065,
+    "ast_hash": "f1150349ef99f54e528dd4e2f1200af6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/M\u00f3dulo de pedidos reportes de \u00f3rdenes (TSV + XML) - SAP - FTP (async).  Pase.md": {
+    "mtime": 1782977142.1204295,
+    "ast_hash": "4ad771bf1c9c99bd4c7e9586ea3a852f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/M\u00f3dulo de stockprecios feed JSON_LISTINGS_FEED (async).  Pase 2 - Contrato nu.md": {
+    "mtime": 1782977142.125077,
+    "ast_hash": "6b8eb08f9f59f7d534564cc1409629eb",
+    "semantic_hash": ""
+  },
+  "python-code-vault/M\u00f3dulo de trackings feed POST_FLAT_FILE_FULFILLMENT_DATA (async).  Pase 2 cont.md": {
+    "mtime": 1782977142.2350657,
+    "ast_hash": "82e5dfa92e11c92a5f8155b01c5ed064",
+    "semantic_hash": ""
+  },
+  "python-code-vault/NamedTuple.md": {
+    "mtime": 1782977142.0447838,
+    "ast_hash": "6fec4970bd4add86c4568bdb40e6f941",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Nombre del fichero local de pedidos acr\u00f3nimo y 'amz' en MIN\u00daSCULAS.      El con.md": {
+    "mtime": 1782977142.1216247,
+    "ast_hash": "2dd016bf503f494dcc5105b5696caa63",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Nombre del fichero local de pedidos acr\u00f3nimo y 'amz' en min\u00fasculas.  El consumi.md": {
+    "mtime": 1782977142.1961188,
+    "ast_hash": "60aba8d89772745b654419025e8048a8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Notificaciones por correo (SMTP). Separado de helper_functions en el pase 2.  El.md": {
+    "mtime": 1782977142.0447838,
+    "ast_hash": "01884ae812ba90a86f9e2b84f53e928d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/N\u00ba de filas a partir del cual aplicar el sanity-guard del stock..md": {
+    "mtime": 1782977141.9218075,
+    "ast_hash": "0c160d31b000dd5bd1824eba47f9a9b0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Obtiene un logger espec\u00edfico para una tienda y nivel (successerror).         s.md": {
+    "mtime": 1782977141.9747941,
+    "ast_hash": "7a21fc9503b0253743e823650aa5b0b6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Parsea `clave = valor` por l\u00ednea, sin secciones. ''';' a l\u00ednea completa..md": {
+    "mtime": 1782977141.9610238,
+    "ast_hash": "eabd9819915a1cceda494e6ea4344f34",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Parsea texto tipo INI a {secci\u00f3n (clave, valor), ...}.      - Los nombres de.md": {
+    "mtime": 1782977141.9599879,
+    "ast_hash": "0aa4cc8e66e2c375151b355afcc55abf",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Par\u00e1metros de backoff del polling por secci\u00f3n (polling.ini)..md": {
+    "mtime": 1782977141.9466166,
+    "ast_hash": "b3007be14a471fc3c32a2f2751decb42",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Patch de precio. Devuelve (patch  None, fuera_de_rango)..md": {
+    "mtime": 1782977142.099844,
+    "ast_hash": "7242bb07448b949a3206227fb41e7d2d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Patch de stock (quantity + handling time), o None si no aplica..md": {
+    "mtime": 1782977142.099844,
+    "ast_hash": "1e9a7521b9bef826b39178978194731c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/PollingConfig.md": {
+    "mtime": 1782977141.9411676,
+    "ast_hash": "51e69e08f034b1b3b222272c3a262de4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/PollingConfig.py.md": {
+    "mtime": 1782977141.9411676,
+    "ast_hash": "cab9edd4f338081c5f0cf6a05916e100",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Proveedor de tokens async para LWA (Login With Amazon).  Mismo papel que en el p.md": {
+    "mtime": 1782977141.9852939,
+    "ast_hash": "ae721c38f4408f5a74ce67601beb7067",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Redacci\u00f3n de secretos en el log de debug del transporte.  El cuerpo de respuesta.md": {
+    "mtime": 1782977142.2037115,
+    "ast_hash": "72e5c4c00514f5ee4985197acbd97fe0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Refactor without observable behavior change (pass 1).md": {
+    "mtime": 1782977142.245065,
+    "ast_hash": "1867b537f6113c273ab38676623294de",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Repite `check()` hasta que devuelva resultado (deja de lanzar exc_type),.md": {
+    "mtime": 1782977142.0949137,
+    "ast_hash": "c37025c53f6dba1cd80accaeb285fa0c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Report processing (IN_QUEUE  IN_PROGRESS).md": {
+    "mtime": 1782977142.013461,
+    "ast_hash": "4ccdef9027719e70c2986db382713575",
+    "semantic_hash": ""
+  },
+  "python-code-vault/ReportDocumentResponse.md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "66e5ae7e9b29e4e36d6d123c09a5da12",
+    "semantic_hash": ""
+  },
+  "python-code-vault/ReportRun.md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "800e087e5bcdb05a7e6dc5cf70c8956e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/ReportStatusResponse.md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "2021f7e104a374dc02f4a37e896877fa",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Response.md": {
+    "mtime": 1782977142.0835328,
+    "ast_hash": "8a8112ff456b32e1425f4ef9c470aafc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Response_1.md": {
+    "mtime": 1782977142.103842,
+    "ast_hash": "3a10de6f2de904f91be1919de0f70bdd",
+    "semantic_hash": ""
+  },
+  "python-code-vault/RestrictedDataTokenResponse.md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "4e47026513e4a9c74235eb854f42edaf",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Resultado de la cadena create - poll - download de AmazonClient.run_report..md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "6e8d99daecf5698b078cccdac6eb388a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/RunContext.md": {
+    "mtime": 1782977142.067027,
+    "ast_hash": "3e3fed8773b9e8d59c8a4a50c97a8f08",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Runner compartido para los m\u00f3dulos (orders  stock  trackings  vat).  Orquesta.md": {
+    "mtime": 1782977142.0682251,
+    "ast_hash": "cf963229e8447fec830376273bef4c72",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Serializa y guarda el archivo cifrado con el estado actual de las apps..md": {
+    "mtime": 1782977141.9075596,
+    "ast_hash": "c47623066457fb4bef3fb85d63f914e7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Serializa {secci\u00f3n {clave valor}} al formato `secci\u00f3n`  `k = v`.      Manti.md": {
+    "mtime": 1782977141.9610238,
+    "ast_hash": "8c9ebb986e9511913881d86355b4e679",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Smoke-test de tokens refrescaimprime el access token de cada cuenta-mercado..md": {
+    "mtime": 1782977142.1094902,
+    "ast_hash": "c6b8e9f10b9986705e5de79cab23422e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Stock.py.md": {
+    "mtime": 1782977141.9474025,
+    "ast_hash": "b4892254a38a0183299682cfc803db89",
+    "semantic_hash": ""
+  },
+  "python-code-vault/StockConfig.md": {
+    "mtime": 1782977141.9474025,
+    "ast_hash": "cf21ad1b8ad21c1e27690a91578da3d3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestApplyLogicFormatMap.md": {
+    "mtime": 1782977142.1734273,
+    "ast_hash": "dc7e0d0e96c12e59c80dedd22cee6b00",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestBelongsToAcronym.md": {
+    "mtime": 1782977142.2064404,
+    "ast_hash": "b6a7f394cc48f0b7587982775a18f2e9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestClient.md": {
+    "mtime": 1782977142.1471343,
+    "ast_hash": "fdf1f7d16caf47a84329b13aa3ade45f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestCryptoUtils.md": {
+    "mtime": 1782977142.1647751,
+    "ast_hash": "f348c2ad71ce1b1b7df6e25a438a6b2d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestEncryptedTokenCache.md": {
+    "mtime": 1782977142.1347287,
+    "ast_hash": "f2ac82572e31e20316f4a51e53d5bab1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestFactoryDebugFlag.md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "03a4e9ce44a2c76f2693a68df34c964b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestLocalOutputName.md": {
+    "mtime": 1782977142.1893747,
+    "ast_hash": "e5ff6a479293e1d008a441a356921792",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestMarketplaces.md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "384e8396a7c6394b809d19643647e7d2",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestOrdersDateRange.md": {
+    "mtime": 1782977142.1950798,
+    "ast_hash": "bd4c391c731ddf218f5ae9e5bd07edc0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestOrdersFallback.md": {
+    "mtime": 1782977142.1886177,
+    "ast_hash": "0923a7f524125044f2a5d5685e6b83b0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestParseFlat.md": {
+    "mtime": 1782977142.158513,
+    "ast_hash": "431d273d109aa4d4ff957cfaafb80b5d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestParseSections.md": {
+    "mtime": 1782977142.1531198,
+    "ast_hash": "197e95449baaa098176a76a25661629d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestRateLimiter.md": {
+    "mtime": 1782977142.1961188,
+    "ast_hash": "0125c1a75d339b7b0a1f263638c85909",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestReadConfigText.md": {
+    "mtime": 1782977142.1647751,
+    "ast_hash": "4739ba44411c01dc5b140d9fa608f515",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestRedactBody.md": {
+    "mtime": 1782977142.1961188,
+    "ast_hash": "c2535abeb03193174b95b20cb5f58309",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestRunnerIsolation.md": {
+    "mtime": 1782977142.2053673,
+    "ast_hash": "88ed43ed7f97da05dcbec35e3875d4e4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestSaveSections.md": {
+    "mtime": 1782977142.1608636,
+    "ast_hash": "7c140b387cb15c9f4c3c3fb4f0605c12",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestStillValid.md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "509772b2bc2ad0f860b449ddd9c07afc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestStockJsonConvert.md": {
+    "mtime": 1782977142.214775,
+    "ast_hash": "0d9bf0338a3eb1e30016ba5b8ed0e1b1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestStockSanityCheck.md": {
+    "mtime": 1782977142.2128465,
+    "ast_hash": "cefdd06c2b1d430e7355e79b6285fa29",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestTokenCache.md": {
+    "mtime": 1782977142.125077,
+    "ast_hash": "c5dc6a449cbd82d031ac3dee3af42d21",
+    "semantic_hash": ""
+  },
+  "python-code-vault/TestTransport.md": {
+    "mtime": 1782977142.227414,
+    "ast_hash": "bc32e244337f47f43d35d532ea49eae5",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Tests de AmazonClient polling, refresh-on-401 y run_report, con fakes..md": {
+    "mtime": 1782977142.1502354,
+    "ast_hash": "142fbce381fcd7c02cd88244ffbc5c4e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Tests de AsyncTransport con httpx.MockTransport (sin red real)..md": {
+    "mtime": 1782977142.2296813,
+    "ast_hash": "f8ed8c89f3afac8344f6685613e31ea9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Tests de la cach\u00e9 de access tokens por expires_in (libraryauth_provider.py).  C.md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "3f2bd1eda454c1c13b3a25770f6081ca",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Tests del cat\u00e1logo \u00fanico de marketplaces (librarymarketplaces.py).  Verifican l.md": {
+    "mtime": 1782977142.1847987,
+    "ast_hash": "749dd7da25efb08ac9d9bafb0b9ff2bc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Tests del fallback de tipo de reporte en orders (_run_tsv).  Cubren el cambio de.md": {
+    "mtime": 1782977142.1893747,
+    "ast_hash": "7b4b6594d97d6742023c5ed02b242670",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Tests del parser base de configuraci\u00f3n (classesconfigbase.py)..md": {
+    "mtime": 1782977142.1647751,
+    "ast_hash": "e72dbd7983280886594ee15ec9314fcb",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Tests del token-bucket async (corrige B1 el limiter original nunca dorm\u00eda).  No.md": {
+    "mtime": 1782977142.1961188,
+    "ast_hash": "3a2b4c40499376e14d3c7064680292a4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Utilidades peque\u00f1as y gen\u00e9ricas (gzip + confirmaci\u00f3n CLI).  Adelgazado en el pas.md": {
+    "mtime": 1782977142.0336726,
+    "ast_hash": "0d86eb18b49776d0ff72c8a5416c6ace",
+    "semantic_hash": ""
+  },
+  "python-code-vault/Ventana de pedidos del original desde las 0000 de hace 7 d\u00edas hasta AHORA..md": {
+    "mtime": 1782977142.1216247,
+    "ast_hash": "ccf1077d15a0baaf2a3dc6568b8cc0b5",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Accounts Config.md": {
+    "mtime": 1782977142.2934747,
+    "ast_hash": "c76bb380454fc12cf0174494b492af65",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Acronyms Config.md": {
+    "mtime": 1782977142.2948582,
+    "ast_hash": "6b5ec61030e973960dedbd12712e41c1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Applications Config.md": {
+    "mtime": 1782977142.2846918,
+    "ast_hash": "b91e66c1ff93340abc51e8d99fc1715d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Async Migration (B1-B7).md": {
+    "mtime": 1782977142.292969,
+    "ast_hash": "93cbb3900fd75b2b2b908da4dbb54166",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Async Transport & Retry.md": {
+    "mtime": 1782977142.2809823,
+    "ast_hash": "c0316917b4c1b3f2c294491f72c646ee",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Case-Sensitivity Fixes.md": {
+    "mtime": 1782977142.298461,
+    "ast_hash": "acbdcc5b67517393839e6b92edfd9f9d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Client Factory.md": {
+    "mtime": 1782977142.2809823,
+    "ast_hash": "9ed002889d80738e4574836668f62612",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Common Config.md": {
+    "mtime": 1782977142.2854161,
+    "ast_hash": "76cd9bc9739385371b5f30dbddeb74a2",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Config Parser (base).md": {
+    "mtime": 1782977142.2854161,
+    "ast_hash": "94801f672b813b4ee399f933fef52911",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Config Read.md": {
+    "mtime": 1782977142.2962308,
+    "ast_hash": "d7b5ade1edf9eec6c75b04c3e9a0fd81",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Config Save.md": {
+    "mtime": 1782977142.2854161,
+    "ast_hash": "ca09c4f02b83f85fd9a582bca5140e61",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_DataTransformer (SAP).md": {
+    "mtime": 1782977142.2854161,
+    "ast_hash": "de715aa3765860b62ff4de1cf0896bf6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_DataTransformer Fixes.md": {
+    "mtime": 1782977142.298461,
+    "ast_hash": "1b9bbcf6907f0a0470e1d2ba15b873cb",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Dependencies.md": {
+    "mtime": 1782977142.298461,
+    "ast_hash": "f6c846ab88e08f52a2ef6ab414a61907",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_FTP Config.md": {
+    "mtime": 1782977142.2809823,
+    "ast_hash": "e4f9bcc4248f566b2f965ab8182bfff8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_FTPSFTP Transport.md": {
+    "mtime": 1782977142.2962308,
+    "ast_hash": "c8b6673dc04a6f086417185f5243289c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_File IO.md": {
+    "mtime": 1782977142.2854161,
+    "ast_hash": "3b14f7a2fdb2693c006c7073f47e81c4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Fix CLI --tokens (F13).md": {
+    "mtime": 1782977142.3028274,
+    "ast_hash": "7121604178a6c2c154ca02ccbb525a78",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Fix VAT dir (F7).md": {
+    "mtime": 1782977142.3074808,
+    "ast_hash": "b848ca75eeed8960565bf5075175d657",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Fix raw archive (F23c).md": {
+    "mtime": 1782977142.3028274,
+    "ast_hash": "6f953658aed86a35ce28dc304adf6313",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Fix trackings delete (F23d).md": {
+    "mtime": 1782977142.3048112,
+    "ast_hash": "bae9b3a024d61ad3249dc1df5f92df07",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_LWA Token Provider.md": {
+    "mtime": 1782977142.2809823,
+    "ast_hash": "ce5b07ed26a0da413a1f621486121894",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Logging (Logger).md": {
+    "mtime": 1782977142.2854161,
+    "ast_hash": "2748d2f1eb86cbdd6b1d9075fab0f83b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Logging Helpers.md": {
+    "mtime": 1782977142.2962308,
+    "ast_hash": "9fe38c78163f11edc7dce75d817d369a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Mail Config.md": {
+    "mtime": 1782977142.2948582,
+    "ast_hash": "dab664df57be41663878deba77cb5e59",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Mailer.md": {
+    "mtime": 1782977142.29201,
+    "ast_hash": "4b442fdb39c6abc05c515b867cc650fc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Marketplace Catalog.md": {
+    "mtime": 1782977142.2809823,
+    "ast_hash": "8fcd3c1e772386af881c40f43af21e4d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Master-Key Crypto & CLI.md": {
+    "mtime": 1782977142.2854161,
+    "ast_hash": "dcc9d2bed51f897b739b36ec76bdd2d4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Orders Module.md": {
+    "mtime": 1782977142.2854161,
+    "ast_hash": "53697303488021be5301887052e1f53a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Orders date window (F27).md": {
+    "mtime": 1782977142.3048112,
+    "ast_hash": "75413a46753d4d62dc50904055cd8a4d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Package init.md": {
+    "mtime": 1782977142.298461,
+    "ast_hash": "2a5dd202c8fd18a9d43dc875c8eb8867",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Package init_1.md": {
+    "mtime": 1782977142.3028274,
+    "ast_hash": "42d78f0aa34f502dfe71d998d6848cc9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Package init_2.md": {
+    "mtime": 1782977142.3028274,
+    "ast_hash": "257c1764e92795aa2372a44f5d5b8a2d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Package init_3.md": {
+    "mtime": 1782977142.3074808,
+    "ast_hash": "2a379951ce02ed24d3eae0b316c81266",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Polling Config.md": {
+    "mtime": 1782977142.2854161,
+    "ast_hash": "c09617efc0fd6c8656446447ee124c77",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Runner & VAT.md": {
+    "mtime": 1782977142.2854161,
+    "ast_hash": "ce3dc9fb0d3d1dbfd8e84d02863a5dd1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Runner Isolation Test.md": {
+    "mtime": 1782977142.298461,
+    "ast_hash": "0a751c552f76db0fb7acd0a19e0f8ca2",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_SP-API Exceptions.md": {
+    "mtime": 1782979163.2499373,
+    "ast_hash": "6dd5349225ef1e7e03d89a6f5f33dd78",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Stock Config.md": {
+    "mtime": 1782977142.2854161,
+    "ast_hash": "22ba5644400884d044013a538ed6dfa8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Stock Module.md": {
+    "mtime": 1782977142.2854161,
+    "ast_hash": "e797d7edd62b79ebe58a56fdf81e5a7b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_Trackings Match Tests.md": {
+    "mtime": 1782977142.2948582,
+    "ast_hash": "6991f2a31785aba5771881b094029de8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_amtubb project.md": {
+    "mtime": 1782977142.3028274,
+    "ast_hash": "0d8d780ff4a8a9c67c11872cabb1d955",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_graphify output.md": {
+    "mtime": 1782977142.298461,
+    "ast_hash": "90c98930adf883cc8e69cb77e4eb98b0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_COMMUNITY_save_sections Tests.md": {
+    "mtime": 1782977142.2962308,
+    "ast_hash": "4dbb17faab3b96e1d27fb170c330fbb2",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_FakeTokenProvider.md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "c1550a8608cfcb6dcaf4ca5c7e48c3ad",
+    "semantic_hash": ""
+  },
+  "python-code-vault/__init__.py.md": {
+    "mtime": 1782977141.8851442,
+    "ast_hash": "7c2d5e55f2c54960c4e28734f22a3a94",
+    "semantic_hash": ""
+  },
+  "python-code-vault/__init__.py_1.md": {
+    "mtime": 1782977141.9531887,
+    "ast_hash": "6f743a499f80338471a3a9e590acff72",
+    "semantic_hash": ""
+  },
+  "python-code-vault/__init__.py_2.md": {
+    "mtime": 1782977141.9747941,
+    "ast_hash": "2bc76e2648e9fa8ad407df9f50f6a5fe",
+    "semantic_hash": ""
+  },
+  "python-code-vault/__init__.py_3.md": {
+    "mtime": 1782977141.976823,
+    "ast_hash": "4bb6ef4ad0974d67fcf27fa567bd2118",
+    "semantic_hash": ""
+  },
+  "python-code-vault/__init__.py_4.md": {
+    "mtime": 1782977141.9868727,
+    "ast_hash": "1eb40b570466a2d7355d9981f34b359e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/__init__.py_5.md": {
+    "mtime": 1782977141.9868727,
+    "ast_hash": "f5100cd343dc976b7c7351c5f824dfea",
+    "semantic_hash": ""
+  },
+  "python-code-vault/__init__.py_6.md": {
+    "mtime": 1782977141.9987755,
+    "ast_hash": "16dea0a8fd1063a277a8af0d06a480d8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/__init__.py_7.md": {
+    "mtime": 1782977142.0351837,
+    "ast_hash": "4b74b825c19d5c1b9077b83cb23d268f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/__init__.py_8.md": {
+    "mtime": 1782977142.0682251,
+    "ast_hash": "af3ab042c9d6e03c5968504f6a711130",
+    "semantic_hash": ""
+  },
+  "python-code-vault/__init__.py_9.md": {
+    "mtime": 1782977142.125077,
+    "ast_hash": "b3b24d31010892396de7847bbae5517e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_archive_and_cleanup().md": {
+    "mtime": 1782977142.2350657,
+    "ast_hash": "36b5dc8ae18415e91ed5b6ff7a405444",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_belongs_to_acronym().md": {
+    "mtime": 1782977142.2296813,
+    "ast_hash": "9bf79ccd4cdfc197c10bf2d1260b0062",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_clean_tsv_lines().md": {
+    "mtime": 1782977142.1105,
+    "ast_hash": "2e81e3ab62b47d9478aca95c237d6c2c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_cleanup_temp().md": {
+    "mtime": 1782977142.2350657,
+    "ast_hash": "32a7db680c3b5323a926500766569cc8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_ctx_record_factory().md": {
+    "mtime": 1782977142.0351837,
+    "ast_hash": "c4c488f0a1f30913649d455db3b5acc4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_derive_v1().md": {
+    "mtime": 1782977142.0714116,
+    "ast_hash": "016cf077bc12fda91c9328ea275dc661",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_derive_v2().md": {
+    "mtime": 1782977142.0714116,
+    "ast_hash": "cde8021b42e9c947412ed3b3d94e4c55",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_ensure().md": {
+    "mtime": 1782977142.0351837,
+    "ast_hash": "200559fb074c6664683c030cf76b2435",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_fulfillment_patch().md": {
+    "mtime": 1782977142.0959377,
+    "ast_hash": "b2fbea70e1eb2b18aa1081af595bbc9b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_is_transient_lwa_error().md": {
+    "mtime": 1782977141.97779,
+    "ast_hash": "c8c22374de751fe92eb2130866efd4a0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_load_v1().md": {
+    "mtime": 1782977142.0731668,
+    "ast_hash": "ccc7d3254c9fc017cdbdf475340309d7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_load_v2().md": {
+    "mtime": 1782977142.0731668,
+    "ast_hash": "5cb38a88cb6d1695a072c5cee8da6366",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_local_output_name().md": {
+    "mtime": 1782977142.112551,
+    "ast_hash": "1ea9238b55a4d02d367ea9fc2aebde7a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_main().md": {
+    "mtime": 1782977142.1075494,
+    "ast_hash": "197a8afaab70c5e546f5fefeecf90544",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_make_transformer().md": {
+    "mtime": 1782977142.172616,
+    "ast_hash": "c195e232d0aff280d205db31a47e2f1f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_orders_date_range().md": {
+    "mtime": 1782977142.1147602,
+    "ast_hash": "83ec3df3e019e01b5e2008afe09d11ae",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_prepare_upload_file().md": {
+    "mtime": 1782977142.2350657,
+    "ast_hash": "76eb238ac4bbc077c91703d41d9b61c9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_prev_month_window().md": {
+    "mtime": 1782977142.2398043,
+    "ast_hash": "bcb7222ec6d4889cbe2e55f473cba311",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_price_patch().md": {
+    "mtime": 1782977142.0959377,
+    "ast_hash": "c8f645eb94a38026fc6f5eb34fcbd1e8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_process_region().md": {
+    "mtime": 1782977142.1147602,
+    "ast_hash": "f4750adc805b1d39c444f1c722519d0a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_process_region_guarded().md": {
+    "mtime": 1782977142.1185534,
+    "ast_hash": "dda452d010759630e198063eae8c7328",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_read_cache().md": {
+    "mtime": 1782977141.9783628,
+    "ast_hash": "a700b2c6932ae35d64706a7e3076c787",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_redact_body().md": {
+    "mtime": 1782977142.099844,
+    "ast_hash": "bad1114bfd16d2fd309e3d83b481d60e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_report_types().md": {
+    "mtime": 1782977142.1147602,
+    "ast_hash": "e6184765006ffd9603a56a5a19075c93",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_reports_folder().md": {
+    "mtime": 1782977142.017886,
+    "ast_hash": "9eb692c70adf6ac7c4e98a8c8273649a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_run_report_safe().md": {
+    "mtime": 1782977142.1147602,
+    "ast_hash": "5dc84427b24caa77502e6af179b523f1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_run_tsv().md": {
+    "mtime": 1782977142.1147602,
+    "ast_hash": "a9d6fc829f47d48874e0441be58abd9e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_run_xml().md": {
+    "mtime": 1782977142.1147602,
+    "ast_hash": "f1938b1a07f3d69bb52e7458bb0bcf4e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_safe_remove().md": {
+    "mtime": 1782977142.112551,
+    "ast_hash": "12e5e318abe39e89290eedbc1d18dcdf",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_send_ftp().md": {
+    "mtime": 1782977142.0296507,
+    "ast_hash": "178ee80401307c26d43b3a403447beca",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_send_region_feed().md": {
+    "mtime": 1782977142.125077,
+    "ast_hash": "e9311d4c11a7df852f70acb4f7572354",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_send_sftp().md": {
+    "mtime": 1782977142.0296507,
+    "ast_hash": "250dbb7fb56af479f482231955b8df0d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_still_valid().md": {
+    "mtime": 1782977141.9793684,
+    "ast_hash": "5cd9e27d042a05441396a16bfaa382ca",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_transform_and_deliver().md": {
+    "mtime": 1782977142.112551,
+    "ast_hash": "0ad6ddac739f7db451778f85a2bcc702",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_tsv_text_to_dataframe().md": {
+    "mtime": 1782977142.2398043,
+    "ast_hash": "e57821cbeddeef1529b66b57190e0d46",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_verify_feed().md": {
+    "mtime": 1782977142.125077,
+    "ast_hash": "14d8f984781f5d382607777bb5192750",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_warm_account().md": {
+    "mtime": 1782977142.1075494,
+    "ast_hash": "92411da95b8c962439303e7c48f93bcc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_write_cache().md": {
+    "mtime": 1782977141.9793684,
+    "ast_hash": "d6a06c394bc60e2d90e2bf653886c72b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/_write_text().md": {
+    "mtime": 1782977142.112551,
+    "ast_hash": "e95ac904002c194523f061b6a509e077",
+    "semantic_hash": ""
+  },
+  "python-code-vault/amtubb.md": {
+    "mtime": 1782977142.1230667,
+    "ast_hash": "5ad1f0a5c220921b37e88c6b44d20262",
+    "semantic_hash": ""
+  },
+  "python-code-vault/app_control.py.md": {
+    "mtime": 1782977141.8851442,
+    "ast_hash": "91fea27198b27df809f54f15ed5115a8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/application.py.md": {
+    "mtime": 1782977141.9878838,
+    "ast_hash": "20256c1c8ca0c58226b4ed9496b13249",
+    "semantic_hash": ""
+  },
+  "python-code-vault/application_settings_menu().md": {
+    "mtime": 1782977141.999626,
+    "ast_hash": "340953e118459c07c6d5c93001b38de3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/archive_final().md": {
+    "mtime": 1782977142.112551,
+    "ast_hash": "6e86f9cbbb9ac0c384cf5b05c35562cf",
+    "semantic_hash": ""
+  },
+  "python-code-vault/archive_raw().md": {
+    "mtime": 1782977142.1105,
+    "ast_hash": "37ee4eda2cfeca17c7b803e348008883",
+    "semantic_hash": ""
+  },
+  "python-code-vault/archive_sent_stock_tsv().md": {
+    "mtime": 1782977142.017886,
+    "ast_hash": "4d4a8bf2bd62c2d3dcb0aa54d0aa2421",
+    "semantic_hash": ""
+  },
+  "python-code-vault/asyncio.to_thread for blocking ops (pandasfilesSMTPFTP).md": {
+    "mtime": 1782977142.245065,
+    "ast_hash": "6efdab932b63c9e1834de32064303940",
+    "semantic_hash": ""
+  },
+  "python-code-vault/auth_provider.py.md": {
+    "mtime": 1782977141.976823,
+    "ast_hash": "763e0d65c1cecd1c8c15315553d3e1ba",
+    "semantic_hash": ""
+  },
+  "python-code-vault/base.py.md": {
+    "mtime": 1782977141.9531887,
+    "ast_hash": "14dab9bdb589c1a1d377da74e1daff12",
+    "semantic_hash": ""
+  },
+  "python-code-vault/build_client().md": {
+    "mtime": 1782977142.1452127,
+    "ast_hash": "2324b90586cd74573b83c43accb4d882",
+    "semantic_hash": ""
+  },
+  "python-code-vault/config_path().md": {
+    "mtime": 1782977141.955189,
+    "ast_hash": "526a16b4463e482eebd94745d829c370",
+    "semantic_hash": ""
+  },
+  "python-code-vault/configure_email().md": {
+    "mtime": 1782977141.996608,
+    "ast_hash": "4ad23d5d1a6dfa350a665be66ff7e7de",
+    "semantic_hash": ""
+  },
+  "python-code-vault/confirm().md": {
+    "mtime": 1782977142.0336726,
+    "ast_hash": "d1f3611054fb284db8d4ebaa25eab536",
+    "semantic_hash": ""
+  },
+  "python-code-vault/create_or_edit_application().md": {
+    "mtime": 1782977141.9907396,
+    "ast_hash": "767f586f12a566c954ca79c74839b332",
+    "semantic_hash": ""
+  },
+  "python-code-vault/create_or_edit_ftp_config().md": {
+    "mtime": 1782977141.9955769,
+    "ast_hash": "21c63a4dfb3558638d71726ded37e119",
+    "semantic_hash": ""
+  },
+  "python-code-vault/crypto_utils.py.md": {
+    "mtime": 1782977142.0698647,
+    "ast_hash": "76718d4cb270fa33b2e13057a8cf509a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/currency().md": {
+    "mtime": 1782977142.0447838,
+    "ast_hash": "c0cdc29de428ec1e6511449f88026c2d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/data_protector (AES+HMAC encryption helper).md": {
+    "mtime": 1782977142.245065,
+    "ast_hash": "85cf53b929508b83b38011e48f8a636a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/data_protector.py.md": {
+    "mtime": 1782977142.0748198,
+    "ast_hash": "822e1b8c9b47dd6a0c9aa05c692d46f6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/debug().md": {
+    "mtime": 1782977142.0401256,
+    "ast_hash": "9fb3dfaa5bdaff9d86f5e4e78e021965",
+    "semantic_hash": ""
+  },
+  "python-code-vault/decrypt().md": {
+    "mtime": 1782977142.0785391,
+    "ast_hash": "550e67fd0961228ba35f12e24a4286bd",
+    "semantic_hash": ""
+  },
+  "python-code-vault/delete_app().md": {
+    "mtime": 1782977141.9889283,
+    "ast_hash": "a658ef5c701643666a41d77a35c9dc95",
+    "semantic_hash": ""
+  },
+  "python-code-vault/delete_ftp_config().md": {
+    "mtime": 1782977141.9931238,
+    "ast_hash": "02fc4140771a8407e81333aab33117fc",
+    "semantic_hash": ""
+  },
+  "python-code-vault/detect_separator().md": {
+    "mtime": 1782977142.017886,
+    "ast_hash": "001cf3dc04de7847354ee46f39b648f7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/edit_app_section().md": {
+    "mtime": 1782977141.9902294,
+    "ast_hash": "6af81f0ba1699a143086c5c4a40e2bb8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/edit_ftp_section().md": {
+    "mtime": 1782977141.9947727,
+    "ast_hash": "cbd4ef094b21ef481987ad7231d6165d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/encrypt().md": {
+    "mtime": 1782977142.076849,
+    "ast_hash": "ba1418312f8079c8577a8d0841768258",
+    "semantic_hash": ""
+  },
+  "python-code-vault/encrypt_keys().md": {
+    "mtime": 1782977142.0714116,
+    "ast_hash": "db96c16ff8b3192092f59a391ba145c7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/error().md": {
+    "mtime": 1782977142.037713,
+    "ast_hash": "c09d21110c698ac03bef72d1553c069a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/exceptions.py.md": {
+    "mtime": 1782977142.0040593,
+    "ast_hash": "3cd6824b586149ce4d8e46d365d79da9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/extract_xml_info().md": {
+    "mtime": 1782977142.1105,
+    "ast_hash": "99baa8725240b20d54601bfc74d2103d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/factory.py.md": {
+    "mtime": 1782977142.0138283,
+    "ast_hash": "f2b7765acda1e4ba88b9e9e63fcf03b9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/file_explorer.py.md": {
+    "mtime": 1782977142.017886,
+    "ast_hash": "6164a67ecb28920d9d5fcc8a874d3992",
+    "semantic_hash": ""
+  },
+  "python-code-vault/ftp_settings.py.md": {
+    "mtime": 1782977141.9915776,
+    "ast_hash": "3147148ab152db14d22972f1c0a0c764",
+    "semantic_hash": ""
+  },
+  "python-code-vault/ftp_transport.py.md": {
+    "mtime": 1782977142.0276368,
+    "ast_hash": "3b7ed6da714696d2091b5dc88fe2c01f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/get_market_endpoints().md": {
+    "mtime": 1782977142.0447838,
+    "ast_hash": "7aa42a63dd28464702a5ee6c93c3aeaa",
+    "semantic_hash": ""
+  },
+  "python-code-vault/get_marketplace().md": {
+    "mtime": 1782977142.0447838,
+    "ast_hash": "92a79fb29ac04fbac1bc4f3b69e8c949",
+    "semantic_hash": ""
+  },
+  "python-code-vault/get_store_identifier().md": {
+    "mtime": 1782977142.0447838,
+    "ast_hash": "481cebb73b6d46e9ccf88e4de195a7f6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/graphify knowledge graph at graphify-out.md": {
+    "mtime": 1782979140.2862928,
+    "ast_hash": "2fdb759560b219ac46bdbec70ccfebd4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/gunzip_to_text().md": {
+    "mtime": 1782977142.0328248,
+    "ast_hash": "a203c1bb2c65037d48ce55a59126916f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/helper_functions.py.md": {
+    "mtime": 1782977142.0328248,
+    "ast_hash": "001185750e7490de633c162e58ea13db",
+    "semantic_hash": ""
+  },
+  "python-code-vault/httpx==0.28.1.md": {
+    "mtime": 1782977142.271406,
+    "ast_hash": "7e84b5c334485663407397bd27be9c4b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/info().md": {
+    "mtime": 1782977142.0393758,
+    "ast_hash": "e73ba53cc27bc8aaebb4b86847a0e81a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/interactive_edit_loop().md": {
+    "mtime": 1782977142.000631,
+    "ast_hash": "47d31686a5f426f64de07c41cba2f036",
+    "semantic_hash": ""
+  },
+  "python-code-vault/key_manager.py.md": {
+    "mtime": 1782977142.0793645,
+    "ast_hash": "517146893f711b7ced212460b53c1d1f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/list_active_ftp_configs().md": {
+    "mtime": 1782977141.9923482,
+    "ast_hash": "41090992cb9c3588d2a7836c35a0acbf",
+    "semantic_hash": ""
+  },
+  "python-code-vault/list_apps().md": {
+    "mtime": 1782977141.9889283,
+    "ast_hash": "a71820637edf232bd1c033fa52169ad3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/list_ftp_configs().md": {
+    "mtime": 1782977141.9931238,
+    "ast_hash": "99a45f0bd004d33ddb463cb20e4ce3a9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/load_keys().md": {
+    "mtime": 1782977142.0731668,
+    "ast_hash": "aad2f7cfbec5668f77e1ed70e35fb672",
+    "semantic_hash": ""
+  },
+  "python-code-vault/load_keys()_1.md": {
+    "mtime": 1782977142.0799427,
+    "ast_hash": "f1a934519b3c73d6ee3fce03bca8d376",
+    "semantic_hash": ""
+  },
+  "python-code-vault/load_mails().md": {
+    "mtime": 1782977142.017886,
+    "ast_hash": "055e2356ffd93ad88a9ad3efd7c8a5d6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/load_master_keys().md": {
+    "mtime": 1782977142.0799427,
+    "ast_hash": "e828b2dc95a93521eb64a7ffc0e645b7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/load_trackings().md": {
+    "mtime": 1782977142.017886,
+    "ast_hash": "9d58c91d2256639a9e1aff6f32cbdfea",
+    "semantic_hash": ""
+  },
+  "python-code-vault/locale_of_country().md": {
+    "mtime": 1782977142.0447838,
+    "ast_hash": "e4f3c80272d96e58ec1904529794188e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/mail_settings.py.md": {
+    "mtime": 1782977141.996608,
+    "ast_hash": "913c6008a3e920812407b2b1f086af7b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/mail_settings_menu().md": {
+    "mtime": 1782977141.999626,
+    "ast_hash": "e9df0ad2a31732652f13b9a23d313c88",
+    "semantic_hash": ""
+  },
+  "python-code-vault/mailer.py.md": {
+    "mtime": 1782977142.0401256,
+    "ast_hash": "492d5c3e99e97c0e9c95333f58454352",
+    "semantic_hash": ""
+  },
+  "python-code-vault/main().md": {
+    "mtime": 1782977141.8851442,
+    "ast_hash": "e06c7eb488b8034c25233bd48d3ff466",
+    "semantic_hash": ""
+  },
+  "python-code-vault/main()_1.md": {
+    "mtime": 1782977142.1185534,
+    "ast_hash": "86695fbbf394bd00159017d4ada909ff",
+    "semantic_hash": ""
+  },
+  "python-code-vault/main()_2.md": {
+    "mtime": 1782977142.125077,
+    "ast_hash": "645b5205aaf6d8bb03071f007e8fee21",
+    "semantic_hash": ""
+  },
+  "python-code-vault/main()_3.md": {
+    "mtime": 1782977142.2350657,
+    "ast_hash": "b892e97ec03b9379b2ec0b157f21c345",
+    "semantic_hash": ""
+  },
+  "python-code-vault/main()_4.md": {
+    "mtime": 1782977142.245065,
+    "ast_hash": "f46defb6b02584471d45caacae92f067",
+    "semantic_hash": ""
+  },
+  "python-code-vault/main.py.md": {
+    "mtime": 1782977142.1075494,
+    "ast_hash": "e0e93cc47bc7a221fa29154b2c413eec",
+    "semantic_hash": ""
+  },
+  "python-code-vault/make_client().md": {
+    "mtime": 1782977142.2248533,
+    "ast_hash": "aae7086c9610972982dde64676df6601",
+    "semantic_hash": ""
+  },
+  "python-code-vault/marketplaces.py.md": {
+    "mtime": 1782977142.0447838,
+    "ast_hash": "c33b3118ba1f3efae2fbc71fbf6198ae",
+    "semantic_hash": ""
+  },
+  "python-code-vault/menus.py.md": {
+    "mtime": 1782977141.9987755,
+    "ast_hash": "e55dd6f727e516d1da33012154927deb",
+    "semantic_hash": ""
+  },
+  "python-code-vault/message_processor.py.md": {
+    "mtime": 1782977142.0351837,
+    "ast_hash": "56a04fdac30be8480c79ace53f65d47c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/models.py.md": {
+    "mtime": 1782977142.053243,
+    "ast_hash": "8dcdcbd5f371a92e4ec888f1fe5d8b69",
+    "semantic_hash": ""
+  },
+  "python-code-vault/notify_error_mail().md": {
+    "mtime": 1782977142.0442543,
+    "ast_hash": "80f8c3e9c0e55c89e4b28ee36afadf1a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/orders.py.md": {
+    "mtime": 1782977142.1094902,
+    "ast_hash": "def0fd4951ad314c103d2689bb59d390",
+    "semantic_hash": ""
+  },
+  "python-code-vault/pad().md": {
+    "mtime": 1782977142.0698647,
+    "ast_hash": "82390aaa8027b638ac12da4eb2c5779c",
+    "semantic_hash": ""
+  },
+  "python-code-vault/pad()_1.md": {
+    "mtime": 1782977142.076849,
+    "ast_hash": "4798d4f740033446d350c37aa181caad",
+    "semantic_hash": ""
+  },
+  "python-code-vault/pandas==2.2.3.md": {
+    "mtime": 1782977142.2759056,
+    "ast_hash": "70cda128421a48f29b0f13ab971cf26f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/paramiko==4.0.0.md": {
+    "mtime": 1782977142.2759056,
+    "ast_hash": "078335885c878013ae1fe20bb5617355",
+    "semantic_hash": ""
+  },
+  "python-code-vault/parse_amazon_report().md": {
+    "mtime": 1782977142.025105,
+    "ast_hash": "b4fa115395746896201e8d382832c930",
+    "semantic_hash": ""
+  },
+  "python-code-vault/parse_flat().md": {
+    "mtime": 1782977141.9569256,
+    "ast_hash": "c1dd2ba104e5efc58982dc17dd1ecbb8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/parse_sections().md": {
+    "mtime": 1782977141.9557202,
+    "ast_hash": "e19065ee871ab8d67b39e6f00255bcbd",
+    "semantic_hash": ""
+  },
+  "python-code-vault/process_account().md": {
+    "mtime": 1782977142.125077,
+    "ast_hash": "ee6a006de75b2af0d89ce87c17bd3598",
+    "semantic_hash": ""
+  },
+  "python-code-vault/process_account()_1.md": {
+    "mtime": 1782977142.2350657,
+    "ast_hash": "9db8f042312d74ecdf7c94106fc0d19b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/process_orders_account().md": {
+    "mtime": 1782977142.1185534,
+    "ast_hash": "71a050d67614707ec67d7462dc20758b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/process_vat_account().md": {
+    "mtime": 1782977142.244055,
+    "ast_hash": "bff1e527d367b8e3427c9452c45339f4",
+    "semantic_hash": ""
+  },
+  "python-code-vault/pycryptodome==3.23.0.md": {
+    "mtime": 1782977142.2759056,
+    "ast_hash": "937eb97c461410b4b13913e381ac0361",
+    "semantic_hash": ""
+  },
+  "python-code-vault/pydantic==2.12.4.md": {
+    "mtime": 1782977142.2749653,
+    "ast_hash": "bcf8388952df7f0dd380a4d658a0e7e7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/rate_limiter.py.md": {
+    "mtime": 1782977142.0547314,
+    "ast_hash": "4cb670424234f0da71659c869bd92f65",
+    "semantic_hash": ""
+  },
+  "python-code-vault/read_config_text().md": {
+    "mtime": 1782977141.9557202,
+    "ast_hash": "6f82863682ede722b32df4f9b184d7b3",
+    "semantic_hash": ""
+  },
+  "python-code-vault/read_remote_file().md": {
+    "mtime": 1782977142.017886,
+    "ast_hash": "be3b55414e45b6f77ac00b58bb261e26",
+    "semantic_hash": ""
+  },
+  "python-code-vault/region_of_country().md": {
+    "mtime": 1782977142.0447838,
+    "ast_hash": "9cb64e23bf4876e78515d1e7c74b7a97",
+    "semantic_hash": ""
+  },
+  "python-code-vault/report_chain_handler().md": {
+    "mtime": 1782977142.146463,
+    "ast_hash": "ad40ee506923cf100b1a2fe6de474850",
+    "semantic_hash": ""
+  },
+  "python-code-vault/requests removed (replaced by httpx with timeout).md": {
+    "mtime": 1782977142.2759056,
+    "ast_hash": "b9bea85b1363feed00dd7032feb253d8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/requirements.txt runtime-only (devsecurity tools removed).md": {
+    "mtime": 1782977142.2759056,
+    "ast_hash": "ba44bf2ea24c741a5c1a6c5c4589f28d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/run_module().md": {
+    "mtime": 1782977142.067027,
+    "ast_hash": "a44d20035236d5ddc2e9a9052d79beb5",
+    "semantic_hash": ""
+  },
+  "python-code-vault/run_module_sync().md": {
+    "mtime": 1782977142.0682251,
+    "ast_hash": "5224e9110a749e03b393de093bed9657",
+    "semantic_hash": ""
+  },
+  "python-code-vault/run_report degradando \u00abno completado\u00bb\u00abthrottled\u00bb a None (como antes)..md": {
+    "mtime": 1782977142.1230667,
+    "ast_hash": "af23808ffd323e4a440ad83657dcfd09",
+    "semantic_hash": ""
+  },
+  "python-code-vault/runner.py.md": {
+    "mtime": 1782977142.0660398,
+    "ast_hash": "f09f34110ef1d4a9a808084067187447",
+    "semantic_hash": ""
+  },
+  "python-code-vault/save_sections().md": {
+    "mtime": 1782977141.9569256,
+    "ast_hash": "692a00326ccbe21c023da4bc5b73d273",
+    "semantic_hash": ""
+  },
+  "python-code-vault/save_stock_result().md": {
+    "mtime": 1782977142.017886,
+    "ast_hash": "680e86762b5f8266862af6ad543f8c3d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/save_tracking_result().md": {
+    "mtime": 1782977142.017886,
+    "ast_hash": "dfb098fc54c413591ccc8a10a19855d1",
+    "semantic_hash": ""
+  },
+  "python-code-vault/save_vat_report().md": {
+    "mtime": 1782977142.017886,
+    "ast_hash": "ab8d42c000a88d3856aa2cf1f70d125d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/send_file().md": {
+    "mtime": 1782977142.0296507,
+    "ast_hash": "b1578188dee8c73f8a02629051f5ee43",
+    "semantic_hash": ""
+  },
+  "python-code-vault/send_mail().md": {
+    "mtime": 1782977142.0401256,
+    "ast_hash": "c08d96f4499aa0193c77317b8969d660",
+    "semantic_hash": ""
+  },
+  "python-code-vault/set_log_context().md": {
+    "mtime": 1782977142.0351837,
+    "ast_hash": "0f91661d2804eb841ed6210667f7bf13",
+    "semantic_hash": ""
+  },
+  "python-code-vault/show_all().md": {
+    "mtime": 1782977141.9878838,
+    "ast_hash": "52b158cdb1053eec59e9bb9d8b35e84d",
+    "semantic_hash": ""
+  },
+  "python-code-vault/show_all_transport().md": {
+    "mtime": 1782977141.9931238,
+    "ast_hash": "86502c8fa354f429b9622b63a53ce150",
+    "semantic_hash": ""
+  },
+  "python-code-vault/show_current_email().md": {
+    "mtime": 1782977141.996608,
+    "ast_hash": "332365f6a38946e96c2a218f4bb5b129",
+    "semantic_hash": ""
+  },
+  "python-code-vault/show_email_config().md": {
+    "mtime": 1782977141.996608,
+    "ast_hash": "0896d5b0fe78cd5d2c794fe5e3f9285e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/spapi_client.py.md": {
+    "mtime": 1782977142.0808158,
+    "ast_hash": "c5bf6f8aaf5611e507fe47c84942e2c6",
+    "semantic_hash": ""
+  },
+  "python-code-vault/stock.py_1.md": {
+    "mtime": 1782977142.1230667,
+    "ast_hash": "b326e0b1c665d5fcdc53b06d582707a8",
+    "semantic_hash": ""
+  },
+  "python-code-vault/stock_feed.py.md": {
+    "mtime": 1782977142.0959377,
+    "ast_hash": "0e111ca2f96d17e32767b38a495a095a",
+    "semantic_hash": ""
+  },
+  "python-code-vault/stock_json_convert().md": {
+    "mtime": 1782977142.0959377,
+    "ast_hash": "70267c2836599fb1934cf72a4f14a182",
+    "semantic_hash": ""
+  },
+  "python-code-vault/stock_sanity_check().md": {
+    "mtime": 1782977142.0959377,
+    "ast_hash": "681c3f5847d47b8ef85d283c6ea1cc25",
+    "semantic_hash": ""
+  },
+  "python-code-vault/tenacity==9.1.2.md": {
+    "mtime": 1782977142.2749653,
+    "ast_hash": "68d3ade42593114d96d11f136abeb0af",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_auth_cache.py.md": {
+    "mtime": 1782977142.125077,
+    "ast_hash": "55d939112fc10dc75f4bcbb8b21bb87e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_client.py.md": {
+    "mtime": 1782977142.1365244,
+    "ast_hash": "af12c4a55d211e59d2af02f68d5bac95",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_config_base.py.md": {
+    "mtime": 1782977142.1502354,
+    "ast_hash": "2d475e63140fb7541982d59a0b08fa0f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_crypto_utils.py.md": {
+    "mtime": 1782977142.1647751,
+    "ast_hash": "4398791f6fb5849495e69450c204e71e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_datatransformer.py.md": {
+    "mtime": 1782977142.1718695,
+    "ast_hash": "b47a85fbd876c28ef41f1553cac56122",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_factory_debug.py.md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "61e2bf9b8d71d5810be86df16dba1639",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_marketplaces.py.md": {
+    "mtime": 1782977142.1774392,
+    "ast_hash": "e7fef0f3573def23b06b194eaf5ee07e",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_orders_fallback.py.md": {
+    "mtime": 1782977142.185944,
+    "ast_hash": "6c00eb48bf1d09e7a907024e7808f9fa",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_orders_naming.py.md": {
+    "mtime": 1782977142.1893747,
+    "ast_hash": "366d9da1a97c47e339f3299f22afb710",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_rate_limiter.py.md": {
+    "mtime": 1782977142.1961188,
+    "ast_hash": "e9bbc145eb70cb04746dd50aa899b6a2",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_redaction.py.md": {
+    "mtime": 1782977142.1961188,
+    "ast_hash": "e59d6d0021a35a3ea4516b939146d1d9",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_runner_isolation.py.md": {
+    "mtime": 1782977142.204784,
+    "ast_hash": "f79465fb0c731dffc5e5bd5387083147",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_trackings_match.py.md": {
+    "mtime": 1782977142.2064404,
+    "ast_hash": "9afba649bf2fdbb82de4fbfaf8c3fd16",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_transforms.py.md": {
+    "mtime": 1782977142.2128465,
+    "ast_hash": "494a3c6e041ab1585746950039687c42",
+    "semantic_hash": ""
+  },
+  "python-code-vault/test_transport.py.md": {
+    "mtime": 1782977142.2217786,
+    "ast_hash": "fc1fbd4c0faaf96ebf45a95ae9aa2d40",
+    "semantic_hash": ""
+  },
+  "python-code-vault/timedelta.md": {
+    "mtime": 1782977141.980317,
+    "ast_hash": "1ede9df941716cac92f09bad9cde1e7b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/toggle_app().md": {
+    "mtime": 1782977141.9896557,
+    "ast_hash": "25bbb4c788901311262cea26c8c6d15b",
+    "semantic_hash": ""
+  },
+  "python-code-vault/toggle_ftp_active().md": {
+    "mtime": 1782977141.9931238,
+    "ast_hash": "ae4339f2e1cdca593a6286f6aa4d6803",
+    "semantic_hash": ""
+  },
+  "python-code-vault/tokens_menu_loop().md": {
+    "mtime": 1782977142.000631,
+    "ast_hash": "f065be1ab95b1b321c277e74176cd6b5",
+    "semantic_hash": ""
+  },
+  "python-code-vault/trackings.py.md": {
+    "mtime": 1782977142.2296813,
+    "ast_hash": "446e5db1b26080d1e4ce9c53600ffcb2",
+    "semantic_hash": ""
+  },
+  "python-code-vault/transport.py.md": {
+    "mtime": 1782977142.099844,
+    "ast_hash": "364021037540c2cc2ae99aac6c0b97ff",
+    "semantic_hash": ""
+  },
+  "python-code-vault/transport_settings_menu().md": {
+    "mtime": 1782977142.000631,
+    "ast_hash": "4c05d4bd8b6939c88c62f33586af09b0",
+    "semantic_hash": ""
+  },
+  "python-code-vault/unpad().md": {
+    "mtime": 1782977142.0714116,
+    "ast_hash": "22e0ddacef70810f4a8127b2562ba456",
+    "semantic_hash": ""
+  },
+  "python-code-vault/unpad()_1.md": {
+    "mtime": 1782977142.076849,
+    "ast_hash": "0f0617544766c3f65f6003627a520c5f",
+    "semantic_hash": ""
+  },
+  "python-code-vault/vat_report.py.md": {
+    "mtime": 1782977142.2398043,
+    "ast_hash": "b2a9f47bcc9237f41ffa049d74cbc7d7",
+    "semantic_hash": ""
+  },
+  "python-code-vault/\u00bfEl fichero pertenece a esta cuenta Prefijo `acronimo_` SIN distinguir     may\u00fa.md": {
+    "mtime": 1782977142.2350657,
+    "ast_hash": "7b09819875c24e8bc8a032ea9be34682",
+    "semantic_hash": ""
+  },
+  "python-code-vault/\u00bfEs seguro publicar este feed al cat\u00e1logo vivo      Protege contra un fichero r.md": {
+    "mtime": 1782977142.0993333,
+    "ast_hash": "bf4944205bbcb2e2ec14871179a96cef",
+    "semantic_hash": ""
+  },
+  "python-code-vault/\u00bfHay transporte configurado Y activo para la cuenta.md": {
+    "mtime": 1782977141.9340086,
+    "ast_hash": "103c088754bfd8fb4ab817b9f6e5af03",
+    "semantic_hash": ""
+  },
+  "python-code-vault/\u00danico punto de verdad de los metadatos de marketplaces de Amazon.  Sustituye a l.md": {
+    "mtime": 1782977142.051825,
+    "ast_hash": "56e95a4a0e7325826ad7f8b619ed2aa6",
+    "semantic_hash": ""
+  },
+  "tests/test_sap_format_compat.py": {
+    "mtime": 1783005133.996487,
+    "ast_hash": "9f6f2990fbae73b42c09126ee40b050c",
+    "semantic_hash": ""
+  },
+  "stock_results/lladro_amtubb/DE_20260703_092246.json": {
+    "mtime": 1783063366.6406038,
+    "ast_hash": "6c97c75a0935e9fcd14a4ea10e02e580",
+    "semantic_hash": ""
+  },
+  "stock_results/lladro_amtubb/ES_20260703_092245.json": {
+    "mtime": 1783063365.7764077,
+    "ast_hash": "a5bd2e01b7bbd5b8d46df76925b83f90",
+    "semantic_hash": ""
+  },
+  "stock_results/lladro_amtubb/FR_20260703_092246.json": {
+    "mtime": 1783063366.0812175,
+    "ast_hash": "f2e1e4297f9378c69337fc42e813c920",
+    "semantic_hash": ""
+  },
+  "stock_results/lladro_amtubb/IT_20260703_092246.json": {
+    "mtime": 1783063366.344506,
+    "ast_hash": "9e6f464bdcffe7c3272d9c95b88e739e",
+    "semantic_hash": ""
+  },
+  "stock_results/lladro_amtubb/UK_20260703_092246.json": {
+    "mtime": 1783063366.9258735,
+    "ast_hash": "c70cada55e178b89bef9bf98c7b85d7c",
+    "semantic_hash": ""
+  },
+  "tests/test_key_manager.py": {
+    "mtime": 1783068477.3966134,
+    "ast_hash": "9dacb4fd016af116647aa1f399bb9b26",
+    "semantic_hash": ""
+  },
+  "orders/322824020637_cos_amz.txt": {
+    "mtime": 1783063101.9621553,
+    "ast_hash": "0b41b37058607e748e5f561a516bf29c",
+    "semantic_hash": ""
+  },
+  "config/mappings/lladro_amtubb.json": {
+    "mtime": 1784803065.268,
+    "ast_hash": "c2670997c8f68959310bb6a6d6923a35",
+    "semantic_hash": ""
+  },
+  "tests/test_stock_price_alert.py": {
+    "mtime": 1785920515.9422445,
+    "ast_hash": "c6697ab91aeed24fb4c11e450b119803",
+    "semantic_hash": ""
+  },
+  "ARCHITECTURE.md": {
+    "mtime": 1785225324.4467921,
+    "ast_hash": "51c128f21364af9cec74b05fc6f05dcc",
+    "semantic_hash": ""
+  },
+  "orders/325872020657_cos_amz.txt": {
+    "mtime": 1784797437.8531666,
+    "ast_hash": "b5797f45883da7c47dbd4c7e0d532ddd",
+    "semantic_hash": ""
+  },
+  "orders/979547020657_lladro_amtubb_amz.txt": {
+    "mtime": 1784803129.2920763,
+    "ast_hash": "c29d6848a3ab5c2544125b77484168b8",
+    "semantic_hash": ""
+  }
+}

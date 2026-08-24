@@ -1,0 +1,20 @@
+{
+  "groups": {
+    "ROW": ["ES", "FR", "IT", "DE", "UK"]
+  },
+  "country_rules": {
+    "ROW": {
+      "sap_columns": [
+        { "name": "order-id", "source": "tsv" },
+        { "name": "bill-name", "source": "xml", "key": "billingName" }
+      ]
+    },
+    "DE": {
+      "sap_columns": [
+        { "name": "order-id", "source": "tsv" },
+        { "name": "bill-name", "source": "xml", "key": "billingName" },
+        { "name": "tax-number", "source": "tsv", "amz_name": "vat-number" } 
+      ]
+    }
+  }
+}

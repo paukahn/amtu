@@ -1,9 +1,0 @@
-C:\Users\Igor\Trabajo\Claude-seguro\amtubb_claude_fable\CLAUDE.md
-C:\Users\Igor\Trabajo\Claude-seguro\amtubb_claude_fable\MIGRATION.md
-C:\Users\Igor\Trabajo\Claude-seguro\amtubb_claude_fable\REFACTORING.md
-C:\Users\Igor\Trabajo\Claude-seguro\amtubb_claude_fable\config\acronyms.txt
-C:\Users\Igor\Trabajo\Claude-seguro\amtubb_claude_fable\config\emails.txt
-C:\Users\Igor\Trabajo\Claude-seguro\amtubb_claude_fable\orders\320655020622_COS_AMZ.txt
-C:\Users\Igor\Trabajo\Claude-seguro\amtubb_claude_fable\orders\320789020623_COS_AMZ.txt
-C:\Users\Igor\Trabajo\Claude-seguro\amtubb_claude_fable\orders\321420020627_COS_AMZ.txt
-C:\Users\Igor\Trabajo\Claude-seguro\amtubb_claude_fable\requirements.txt
